@@ -1,0 +1,96 @@
+{
+  "spaces": [
+    {
+      "id": "information",
+      "title": "Information Representation",
+      "focus": "What / How to show",
+      "groups": [
+        {
+          "title": "Content of Feedback",
+          "items": [
+            "Behavioral Indicators",
+            "Environmental Indicators"
+          ],
+          "synthesis": "Environmental impact is communicated through different types of indicators, making options comparable. These include outcome-oriented indicators (environmental metrics) and process-oriented indicators (behavioral metrics).",
+          "practices": "Carbon emissions, energy consumption, water usage, food impact, behavioral counts (e.g., number of green trips, check-in days)."
+        },
+        {
+          "title": "Format & Modality",
+          "items": [
+            "Numerical",
+            "Text Comparison",
+            "Reference",
+            "Icon / Symbolic Comparison",
+            "Chart / Table",
+            "Grading & Classification Comparison",
+            "Gamified Feedback Comparison"
+          ],
+          "synthesis": "Different representation formats influence readability, intuitiveness, and emotional engagement, shaping how users perceive and compare options.",
+          "practices": "Percentages, numerical values (e.g., kg CO₂), textual explanations, benchmark references (e.g., average users), icons such as a green leaf, charts (e.g., line and bar), grading labels (e.g., A–E), gamified rewards (e.g., points, badges)."
+        }
+      ]
+    },
+    {
+      "id": "strategy",
+      "title": "Comparative Strategy Design",
+      "focus": "When / How to intervene",
+      "groups": [
+        {
+          "title": "Reminders",
+          "items": [
+            "Intervention Points",
+            "Push Frequency"
+          ],
+          "synthesis": "The timing and frequency of feedback influence its role, including decision support, post-hoc reflection, and long-term reinforcement.",
+          "practices": "Real-time energy alerts, booking-time recommendations such as low-carbon routes, post-action summaries (e.g., weekly reports), different push frequencies (e.g., daily or periodic)."
+        },
+        {
+          "title": "Motivation & Choice",
+          "items": [
+            "Default Options",
+            "Highlighting Recommended Choices",
+            "Option Ordering",
+            "Commitment Device",
+            "Filtering Alternatives"
+          ],
+          "synthesis": "Comparative eco-feedback mainly presents information, but it also has the potential to intervene in decision-making by guiding attention, simplifying choices, and structuring available options.",
+          "practices": "Occasional highlighting of low-carbon options or simple recommendations. Systematic strategies such as default options, option ordering, filtering mechanisms, and commitment devices are largely absent across tools."
+        }
+      ]
+    },
+    {
+      "id": "social",
+      "title": "Social and Collective Engagement",
+      "focus": "Who is involved?",
+      "groups": [
+        {
+          "title": "Green Community & Identity",
+          "items": [
+            "Eco-Identity Shaping",
+            "Green Social Interaction"
+          ],
+          "synthesis": "Eco-feedback reinforces environmental identity and a sense of belonging, linking behavior to social recognition.",
+          "practices": "Eco badges such as Eco Champion, social sharing, likes, peer comparison (e.g., using less energy than others), identity-related cues."
+        },
+        {
+          "title": "Collective Action & Campaigns",
+          "items": [
+            "Collective Goals",
+            "Collective Campaigns"
+          ],
+          "synthesis": "Individual behavior is embedded within collective outcomes, encouraging participation, collaboration, and shared goals.",
+          "practices": "Community-level emission reduction data (e.g., total CO₂ reduction), group challenges, collaborative activities."
+        },
+        {
+          "title": "Green Education & Norm Shaping",
+          "items": [
+            "Green Behavior Knowledge",
+            "Social Norm Cues"
+          ],
+          "synthesis": "By conveying social norms and knowledge, eco-feedback supports understanding and adoption of sustainable behavior.",
+          "practices": "Statements such as “most people recycle,” explanations of environmental impact, descriptions of why behaviors matter."
+        }
+      ]
+    }
+  ]
+}

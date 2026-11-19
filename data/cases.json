@@ -1,0 +1,5722 @@
+{
+  "cases": [
+    {
+      "id": "I_1",
+      "title": "Browser Carbonalyser",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Digital Service Usage"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Donut Chart",
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value"
+      ],
+      "image": "I_1_1",
+      "images": [
+        "I_1_1"
+      ],
+      "desc": "",
+      "source_url": "https://theshiftproject.org/publications/carbonalyser/",
+      "original_subscenarios": [
+        "Digital Service Usage"
+      ],
+      "original_submethods": [
+        "Donut Chart",
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Digital Service Usage",
+      "figure": "",
+      "source_citation": "Browser Carbonalyser. 2025. https://theshiftproject.org/publications/carbonalyser/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_2",
+      "title": "Microsoft Sustainability Manager",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Digital Service Usage"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Bar Chart",
+        "Numerical vs Numerical",
+        "Typical / Average",
+        "Personal History",
+        "Line Chart",
+        "Composite Graphics",
+        "Transformed % Bar"
+      ],
+      "image": "I_2_1",
+      "images": [
+        "I_2_1",
+        "I_2_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.microsoft.com/en-us/sustainability/microsoft-sustainability-manager",
+      "original_subscenarios": [
+        "Digital Service Usage"
+      ],
+      "original_submethods": [
+        "Bar Chart",
+        "Numerical vs Numerical",
+        "Typical / Average",
+        "Personal History",
+        "Line Chart",
+        "Composite Graphics",
+        "Transformed % Bar"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Digital Service Usage",
+      "figure": "",
+      "source_citation": "Microsoft Sustainability Manager. 2025. https://www.microsoft.com/en-us/sustainability/microsoft-sustainability-manager. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_3",
+      "title": "Cloud Carbon Footprint",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Digital Service Usage",
+        "Artificial Intelligence Tools"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Bar Chart",
+        "Analogy / Equivalent Value",
+        "Line Chart",
+        "Composite Graphics",
+        "Personal History"
+      ],
+      "image": "I_3_1",
+      "images": [
+        "I_3_1",
+        "I_3_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.cloudcarbonfootprint.org/",
+      "original_subscenarios": [
+        "Digital Service Usage",
+        "Artificial Intelligence Tools"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Bar Chart",
+        "Analogy / Equivalent Value",
+        "Line Chart",
+        "Composite Graphics",
+        "Personal History"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Digital Service Usage; Artificial Intelligence Tools",
+      "figure": "",
+      "source_citation": "Cloud Carbon Footprint. 2025. https://www.cloudcarbonfootprint.org/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_4",
+      "title": "WattTime",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Icon / Symbolic",
+        "Chart / Table",
+        "Grading & Classification"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Increase / Decrease Icons",
+        "Percentage Delta",
+        "Bar Chart",
+        "Scales / Grading",
+        "Composite Graphics",
+        "Line Chart"
+      ],
+      "image": "I_4_1",
+      "images": [
+        "I_4_1",
+        "I_4_2"
+      ],
+      "desc": "",
+      "source_url": "https://watttime.org/",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Increase / Decrease Icons",
+        "Percentage Delta",
+        "Bar Chart",
+        "Scales / Grading",
+        "Composite Graphics",
+        "Line Chart"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "WattTime. 2025. https://watttime.org/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_5",
+      "title": "Green Algorithms",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Artificial Intelligence Tools",
+        "Digital Service Usage"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Bar Chart",
+        "Donut Chart",
+        "Typical / Average"
+      ],
+      "image": "I_5_1",
+      "images": [
+        "I_5_1"
+      ],
+      "desc": "",
+      "source_url": "https://www.green-algorithms.org/",
+      "original_subscenarios": [
+        "Artificial Intelligence Tools",
+        "Digital Service Usage"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Bar Chart",
+        "Donut Chart",
+        "Typical / Average"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Artificial Intelligence Tools; Digital Service Usage",
+      "figure": "",
+      "source_citation": "Green Algorithms. 2025. https://www.green-algorithms.org/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_6",
+      "title": "GreenFrame",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Digital Service Usage"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Transformed % Bar",
+        "Increase / Decrease Icons",
+        "Percentage Delta",
+        "Line Chart"
+      ],
+      "image": "I_6_1",
+      "images": [
+        "I_6_1",
+        "I_6_2"
+      ],
+      "desc": "",
+      "source_url": "https://greenframe.io/",
+      "original_subscenarios": [
+        "Digital Service Usage"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Transformed % Bar",
+        "Increase / Decrease Icons",
+        "Percentage Delta",
+        "Line Chart"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Digital Service Usage",
+      "figure": "",
+      "source_citation": "GreenFrame. 2025. https://greenframe.io/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_7",
+      "title": "CarbonViz",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Digital Service Usage"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Percentage Delta",
+        "Personal History",
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Bar Chart",
+        "Composite Graphics",
+        "Stacked Bar Chart"
+      ],
+      "image": "I_7_1",
+      "images": [
+        "I_7_1",
+        "I_7_2"
+      ],
+      "desc": "",
+      "source_url": "https://microsoftedge.microsoft.com/addons/detail/carbonviz/coikafjaganjkbdajlbndipabikmjfjh",
+      "original_subscenarios": [
+        "Digital Service Usage"
+      ],
+      "original_submethods": [
+        "Percentage Delta",
+        "Personal History",
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Bar Chart",
+        "Composite Graphics",
+        "Stacked Bar Chart"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Digital Service Usage",
+      "figure": "",
+      "source_citation": "CarbonViz. 2025. https://microsoftedge.microsoft.com/addons/detail/carbonviz/coikafjaganjkbdajlbndipabikmjfjh. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_8",
+      "title": "neuto",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Digital Service Usage"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Composite Graphics",
+        "Numerical vs Numerical",
+        "Typical / Average"
+      ],
+      "image": "I_8_1",
+      "images": [
+        "I_8_1",
+        "I_8_2"
+      ],
+      "desc": "",
+      "source_url": "https://neuto.co.uk",
+      "original_subscenarios": [
+        "Digital Service Usage"
+      ],
+      "original_submethods": [
+        "Composite Graphics",
+        "Numerical vs Numerical",
+        "Typical / Average"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Digital Service Usage",
+      "figure": "",
+      "source_citation": "neuto. 2025. https://neuto.co.uk. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_9",
+      "title": "Machine Learning Emissions Calculator",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Artificial Intelligence Tools",
+        "Digital Service Usage"
+      ],
+      "methods": [
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value"
+      ],
+      "image": "I_9_1",
+      "images": [
+        "I_9_1"
+      ],
+      "desc": "",
+      "source_url": "https://mlco2.github.io/impact/",
+      "original_subscenarios": [
+        "Artificial Intelligence Tools",
+        "Digital Service Usage"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Artificial Intelligence Tools; Digital Service Usage",
+      "figure": "",
+      "source_citation": "Machine Learning Emissions Calculator. 2025. https://mlco2.github.io/impact/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_10",
+      "title": "Restart Project",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT",
+        "Food & Waste",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Personal Electronic Devices",
+        "Waste Recovery & Management",
+        "Second-hand Transactions & Sharing Economy"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Grading & Classification",
+        "Gamified Feedback",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Count / Frequency",
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Achievements / Medals",
+        "No Action"
+      ],
+      "image": "I_10_1",
+      "images": [
+        "I_10_1"
+      ],
+      "desc": "",
+      "source_url": "https://therestartproject.org/",
+      "original_subscenarios": [
+        "Personal Electronic Devices",
+        "Waste Recovery & Management",
+        "Second-hand Transactions and Sharing Economy"
+      ],
+      "original_submethods": [
+        "Count / Frequency",
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Achievements / Medals",
+        "No Action"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Personal Electronic Devices; Waste Recovery & Management; Second-hand Transactions & Sharing Economy",
+      "figure": "",
+      "source_citation": "Restart Project. 2025. https://therestartproject.org/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_11",
+      "title": "circularcomputing",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Personal Electronic Devices",
+        "Second-hand Transactions & Sharing Economy",
+        "Purchase Decisions"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Absolute Delta",
+        "No Action",
+        "Percentage Delta"
+      ],
+      "image": "I_11_1",
+      "images": [
+        "I_11_1"
+      ],
+      "desc": "",
+      "source_url": "https://circularcomputing.com/",
+      "original_subscenarios": [
+        "Personal Electronic Devices",
+        "Second-hand Transactions and Sharing Economy",
+        "Purchase Decisions"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Absolute Delta",
+        "No Action",
+        "Percentage Delta"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Personal Electronic Devices; Second-hand Transactions & Sharing Economy; Purchase Decisions",
+      "figure": "",
+      "source_citation": "circularcomputing. 2025. https://circularcomputing.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_12",
+      "title": "Trip.com (Ctrip)",
+      "type": "Industry",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Responsible Travel",
+        "Commuting / Short-distance Travel"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Percentage Delta",
+        "Typical / Average",
+        "Increase / Decrease Icons",
+        "Numerical vs Numerical",
+        "Sustainability Emphasis Icons",
+        "Absolute Delta",
+        "No Action",
+        "Certification Icon"
+      ],
+      "image": "I_12_1",
+      "images": [
+        "I_12_1",
+        "I_12_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.trip.com/",
+      "original_subscenarios": [
+        "Responsible Travel",
+        "Commuting/Short-distance Travel"
+      ],
+      "original_submethods": [
+        "Percentage Delta",
+        "Typical / Average",
+        "Increase / Decrease Icons",
+        "Numerical vs Numerical",
+        "Sustainability Emphasis Icons",
+        "Absolute Delta",
+        "No Action",
+        "Certification Icon"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Responsible Travel; Commuting / Short-distance Travel",
+      "figure": "",
+      "source_citation": "Trip.com (Ctrip). 2025. https://www.trip.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_13",
+      "title": "Expedia",
+      "type": "Industry",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Responsible Travel"
+      ],
+      "methods": [
+        "Icon / Symbolic",
+        "Text Comparison"
+      ],
+      "submethods": [
+        "Sustainability Emphasis Icons",
+        "Recommended Text"
+      ],
+      "image": "I_13_1",
+      "images": [
+        "I_13_1"
+      ],
+      "desc": "",
+      "source_url": "https://www.expedia.com",
+      "original_subscenarios": [
+        "Responsible Travel"
+      ],
+      "original_submethods": [
+        "Sustainability Emphasis Icons",
+        "Recommended Text"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Responsible Travel",
+      "figure": "",
+      "source_citation": "Expedia. 2025. https://www.expedia.com. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_14",
+      "title": "Booking",
+      "type": "Industry",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Responsible Travel"
+      ],
+      "methods": [
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Certification Icon"
+      ],
+      "image": "I_14_1",
+      "images": [
+        "I_14_1",
+        "I_14_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.booking.com/",
+      "original_subscenarios": [
+        "Responsible Travel"
+      ],
+      "original_submethods": [
+        "Certification Icon (Present / Absent)"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Responsible Travel",
+      "figure": "",
+      "source_citation": "Booking. 2025. https://www.booking.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_15",
+      "title": "Skyscanner",
+      "type": "Industry",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Responsible Travel"
+      ],
+      "methods": [
+        "Icon / Symbolic",
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Sustainability Emphasis Icons",
+        "Percentage Delta",
+        "Typical / Average"
+      ],
+      "image": "I_15_1",
+      "images": [
+        "I_15_1"
+      ],
+      "desc": "",
+      "source_url": "https://www.skyscanner.com",
+      "original_subscenarios": [
+        "Responsible Travel"
+      ],
+      "original_submethods": [
+        "Sustainability Emphasis Icons",
+        "Percentage Delta",
+        "Typical / Average"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Responsible Travel",
+      "figure": "",
+      "source_citation": "Skyscanner. 2025. https://www.skyscanner.com. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_16",
+      "title": "KAYAK",
+      "type": "Industry",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Responsible Travel"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "No Action"
+      ],
+      "image": "I_16_1",
+      "images": [
+        "I_16_1"
+      ],
+      "desc": "",
+      "source_url": "https://www.kayak.com",
+      "original_subscenarios": [
+        "Responsible Travel"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "No Action"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Responsible Travel",
+      "figure": "",
+      "source_citation": "KAYAK. 2025. https://www.kayak.com. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_17",
+      "title": "Google Map",
+      "type": "Industry",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Commuting / Short-distance Travel",
+        "Vehicle Usage"
+      ],
+      "methods": [
+        "Icon / Symbolic",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Sustainability Emphasis Icons",
+        "Percentage Delta"
+      ],
+      "image": "I_17_1",
+      "images": [
+        "I_17_1"
+      ],
+      "desc": "",
+      "source_url": "https://www.google.com/maps",
+      "original_subscenarios": [
+        "Commuting/Short-distance Travel",
+        "Vehicle Usage"
+      ],
+      "original_submethods": [
+        "Sustainability Emphasis Icons",
+        "Percentage Delta"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Commuting / Short-distance Travel; Vehicle Usage",
+      "figure": "",
+      "source_citation": "Google Map. 2025. https://www.google.com/maps. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_18",
+      "title": "Uber",
+      "type": "Industry",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Commuting / Short-distance Travel"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "No Action"
+      ],
+      "image": "I_18_1",
+      "images": [
+        "I_18_1",
+        "I_18_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.uber.com/",
+      "original_subscenarios": [
+        "Commuting/Short-distance Travel"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "No Action"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Commuting / Short-distance Travel",
+      "figure": "",
+      "source_citation": "Uber. 2025. https://www.uber.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_19",
+      "title": "Mercedes-Benz",
+      "type": "Industry",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Vehicle Usage"
+      ],
+      "methods": [
+        "Reference / Benchmark",
+        "Chart / Table",
+        "Text Comparison",
+        "Gamified Feedback",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "No Action",
+        "Personal History",
+        "Stacked Bar Chart",
+        "Recommended Text",
+        "Achievements / Medals",
+        "Score",
+        "Percentage Delta",
+        "Absolute Delta",
+        "Numerical vs Numerical"
+      ],
+      "image": "I_19_1",
+      "images": [
+        "I_19_1",
+        "I_19_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.mbusa.com/en/mercedes-benz-app",
+      "original_subscenarios": [
+        "Vehicle Usage"
+      ],
+      "original_submethods": [
+        "No Action",
+        "Personal History",
+        "Stacked Bar Chart",
+        "Recommended Text",
+        "Achievements / Medals",
+        "Score",
+        "Percentage Delta",
+        "Absolute Delta",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Vehicle Usage",
+      "figure": "",
+      "source_citation": "Mercedes-Benz. 2025. https://www.mbusa.com/en/mercedes-benz-app. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_20",
+      "title": "LARQ",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Water Resources & Wastewater Management"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Absolute Delta",
+        "Bar Chart",
+        "Personal History",
+        "No Action"
+      ],
+      "image": "I_20_1",
+      "images": [
+        "I_20_1",
+        "I_20_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.livelarq.com/",
+      "original_subscenarios": [
+        "Water Resources Management and Wastewater Treatment"
+      ],
+      "original_submethods": [
+        "Absolute Delta",
+        "Bar Chart",
+        "Personal History",
+        "No Action"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Water Resources & Wastewater Management",
+      "figure": "",
+      "source_citation": "LARQ. 2025. https://www.livelarq.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_21",
+      "title": "sense",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building",
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Household Energy Systems",
+        "Smart Home Devices"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table",
+        "Grading & Classification",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Bubble Chart",
+        "Stacked Bar Chart",
+        "Line Chart",
+        "Composite Graphics",
+        "Range Class",
+        "Bar Chart",
+        "Personal History",
+        "Peer / Ranking",
+        "Percentage Delta",
+        "Trend Forecast"
+      ],
+      "image": "I_21_1",
+      "images": [
+        "I_21_1",
+        "I_21_2"
+      ],
+      "desc": "",
+      "source_url": "https://sense.com/utilities/",
+      "original_subscenarios": [
+        "Household Energy Systems",
+        "Smart Home Devices"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Bubble Chart",
+        "Stacked Bar Chart",
+        "Line Chart",
+        "Composite Graphics",
+        "Range Class",
+        "Bar Chart",
+        "Personal History",
+        "Peer / Ranking",
+        "Percentage Delta",
+        "Trend Forecast"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems; Smart Home Devices",
+      "figure": "",
+      "source_citation": "sense. 2025. https://sense.com/utilities/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_22",
+      "title": "Flume",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Water Resources & Wastewater Management"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Chart / Table",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Personal History",
+        "Bar Chart",
+        "Line Chart",
+        "Composite Graphics",
+        "Transformed % Bar",
+        "Progress Bar",
+        "Table + Number",
+        "Donut Chart",
+        "Increase / Decrease Icons"
+      ],
+      "image": "I_22_1",
+      "images": [
+        "I_22_1",
+        "I_22_2"
+      ],
+      "desc": "",
+      "source_url": "https://flumewater.com/",
+      "original_subscenarios": [
+        "Water Resources Management and Wastewater Treatment"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Personal History",
+        "Bar Chart",
+        "Line Chart",
+        "Composite Graphics",
+        "Transformed % Bar",
+        "Progress Bar",
+        "Table + Number",
+        "Donut Chart",
+        "Increase / Decrease Icons"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Water Resources & Wastewater Management",
+      "figure": "",
+      "source_citation": "Flume. 2025. https://flumewater.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_23",
+      "title": "Wiser Home",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building",
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Household Energy Systems",
+        "Smart Home Devices"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Personal History",
+        "Bubble Chart",
+        "Bar Chart",
+        "Composite Graphics",
+        "Transformed % Bar",
+        "Goal / Budget"
+      ],
+      "image": "I_23_1",
+      "images": [
+        "I_23_1",
+        "I_23_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.se.com/ww/en/",
+      "original_subscenarios": [
+        "Household Energy Systems",
+        "Smart Home Devices"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Personal History",
+        "Bubble Chart",
+        "Bar Chart",
+        "Composite Graphics",
+        "Transformed % Bar",
+        "Goal / Budget"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems; Smart Home Devices",
+      "figure": "",
+      "source_citation": "Wiser Home. 2025. https://www.se.com/ww/en/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_24",
+      "title": "Treeapp",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Green & Carbon Neutrality Actions"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Analogy / Equivalent Value",
+        "Score",
+        "Progress Bars",
+        "Numerical vs Numerical",
+        "No Action"
+      ],
+      "image": "I_24_1",
+      "images": [
+        "I_24_1",
+        "I_24_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.thetreeapp.org/",
+      "original_subscenarios": [
+        "Green and Carbon Neutrality Actions"
+      ],
+      "original_submethods": [
+        "Analogy / Equivalent Value",
+        "Score",
+        "Progress Bars",
+        "Numerical vs Numerical",
+        "No Action"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Green & Carbon Neutrality Actions",
+      "figure": "",
+      "source_citation": "Treeapp. 2025. https://www.thetreeapp.org/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_25",
+      "title": "Electricity Maps",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table",
+        "Reference / Benchmark",
+        "Grading & Classification"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Donut Chart",
+        "Personal History",
+        "Line Chart",
+        "Range Class",
+        "Stacked Bar Chart",
+        "Composite Graphics"
+      ],
+      "image": "I_25_1",
+      "images": [
+        "I_25_1",
+        "I_25_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.electricitymaps.com/",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Donut Chart",
+        "Personal History",
+        "Line Chart",
+        "Range Class",
+        "Stacked Bar Chart",
+        "Composite Graphics"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Electricity Maps. 2025. https://www.electricitymaps.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_26",
+      "title": "DROP Connect",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building",
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Water Resources & Wastewater Management",
+        "Smart Home Devices"
+      ],
+      "methods": [
+        "Reference / Benchmark",
+        "Numerical Comparison",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Personal History",
+        "Numerical vs Numerical",
+        "No Action",
+        "Trend Forecast",
+        "Line Chart"
+      ],
+      "image": "I_26_1",
+      "images": [
+        "I_26_1",
+        "I_26_2"
+      ],
+      "desc": "",
+      "source_url": "https://dropconnect.com/",
+      "original_subscenarios": [
+        "Water Resources Management and Wastewater Treatment",
+        "Smart Home Devices"
+      ],
+      "original_submethods": [
+        "Personal History",
+        "Numerical vs Numerical",
+        "No Action",
+        "Trend Forecast",
+        "Line Chart"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Water Resources & Wastewater Management; Smart Home Devices",
+      "figure": "",
+      "source_citation": "DROP Connect. 2025. https://dropconnect.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_27",
+      "title": "Treedom",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle",
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Green & Carbon Neutrality Actions",
+        "Home Greening / Gardening",
+        "Green Education"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Grading & Classification",
+        "Icon / Symbolic",
+        "Gamified Feedback",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Sustainability Emphasis Icons",
+        "Achievements / Medals",
+        "Percentage Delta",
+        "Absolute Delta",
+        "Increase / Decrease Icons",
+        "Analogy / Equivalent Value",
+        "Score",
+        "Composite Graphics"
+      ],
+      "image": "I_27_1",
+      "images": [
+        "I_27_1",
+        "I_27_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.treedom.net/en",
+      "original_subscenarios": [
+        "Green and Carbon Neutrality Actions",
+        "Home Greening / Gardening",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Sustainability Emphasis Icons",
+        "Achievements / Medals",
+        "Percentage Delta",
+        "Absolute Delta",
+        "Increase / Decrease Icons",
+        "Analogy / Equivalent Value",
+        "Score",
+        "Composite Graphics"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Green & Carbon Neutrality Actions; Home Greening / Gardening; Green Education",
+      "figure": "",
+      "source_citation": "Treedom. 2025. https://www.treedom.net/en. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_28",
+      "title": "restor",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle",
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Green & Carbon Neutrality Actions",
+        "Home Greening / Gardening",
+        "Green Education"
+      ],
+      "methods": [
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Composite Graphics",
+        "Bar Chart",
+        "Line Chart"
+      ],
+      "image": "I_28_1",
+      "images": [
+        "I_28_1",
+        "I_28_2"
+      ],
+      "desc": "",
+      "source_url": "https://restor.eco/",
+      "original_subscenarios": [
+        "Green and Carbon Neutrality Actions",
+        "Home Greening / Gardening",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Composite Graphics",
+        "Bar Chart",
+        "Line Chart"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Green & Carbon Neutrality Actions; Home Greening / Gardening; Green Education",
+      "figure": "",
+      "source_citation": "restor. 2025. https://restor.eco/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_29",
+      "title": "Hydrao",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Water Resources & Wastewater Management"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Icon / Symbolic",
+        "Reference / Benchmark",
+        "Chart / Table",
+        "Grading & Classification"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Percentage Delta",
+        "Increase / Decrease Icons",
+        "Personal History",
+        "No Action",
+        "Bar Chart",
+        "Composite Graphics",
+        "Typical / Average",
+        "Donut Chart",
+        "Sustainability Emphasis Icons",
+        "Scales / Grading",
+        "Stacked Bar Chart"
+      ],
+      "image": "I_29_1",
+      "images": [
+        "I_29_1",
+        "I_29_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.hydrao.com/en/",
+      "original_subscenarios": [
+        "Water Resources Management and Wastewater Treatment"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Percentage Delta",
+        "Increase / Decrease Icons",
+        "Personal History",
+        "No Action",
+        "Bar Chart",
+        "Composite Graphics",
+        "Typical / Average",
+        "Donut Chart",
+        "Sustainability Emphasis Icons",
+        "Scales / Grading",
+        "Stacked Bar Chart"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Water Resources & Wastewater Management",
+      "figure": "",
+      "source_citation": "Hydrao. 2025. https://www.hydrao.com/en/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_30",
+      "title": "Wattwatchers",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building",
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Household Energy Systems",
+        "Smart Home Devices"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Icon / Symbolic",
+        "Reference / Benchmark",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Bar Chart",
+        "Increase / Decrease Icons",
+        "Personal History",
+        "Goal / Budget",
+        "Numerical vs Numerical",
+        "Percentage Delta",
+        "Composite Graphics",
+        "Sustainability Emphasis Icons",
+        "Stacked Bar Chart",
+        "Line Chart"
+      ],
+      "image": "I_30_1",
+      "images": [
+        "I_30_1",
+        "I_30_2"
+      ],
+      "desc": "",
+      "source_url": "https://wattwatchers.com.au/",
+      "original_subscenarios": [
+        "Household Energy Systems",
+        "Smart Home Devices"
+      ],
+      "original_submethods": [
+        "Bar Chart",
+        "Increase / Decrease Icons",
+        "Personal History",
+        "Goal / Budget",
+        "Numerical vs Numerical",
+        "Percentage Delta",
+        "Composite Graphics",
+        "Sustainability Emphasis Icons",
+        "Stacked Bar Chart",
+        "Line Chart"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems; Smart Home Devices",
+      "figure": "",
+      "source_citation": "Wattwatchers. 2025. https://wattwatchers.com.au/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_31",
+      "title": "whatwatt",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Reference / Benchmark",
+        "Numerical Comparison",
+        "Chart / Table",
+        "Grading & Classification"
+      ],
+      "submethods": [
+        "No Action",
+        "Numerical vs Numerical",
+        "Personal History",
+        "Bar Chart",
+        "Stacked Bar Chart",
+        "Line Chart",
+        "Composite Graphics",
+        "Scales / Grading"
+      ],
+      "image": "I_31_1",
+      "images": [
+        "I_31_1",
+        "I_31_2"
+      ],
+      "desc": "",
+      "source_url": "https://whatwatt.ch/en",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "No Action",
+        "Numerical vs Numerical",
+        "Personal History",
+        "Bar Chart",
+        "Stacked Bar Chart",
+        "Line Chart",
+        "Composite Graphics",
+        "Scales / Grading"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "whatwatt. 2025. https://whatwatt.ch/en. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_32",
+      "title": "Hello Watt Suivi Conso Énergie",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Chart / Table",
+        "Grading & Classification"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Achievements / Medals",
+        "Bar Chart",
+        "Line Chart",
+        "Composite Graphics",
+        "Scales / Grading"
+      ],
+      "image": "I_32_1",
+      "images": [
+        "I_32_1",
+        "I_32_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.hellowatt.fr/",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Achievements / Medals",
+        "Bar Chart",
+        "Line Chart",
+        "Composite Graphics",
+        "Scales / Grading"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Hello Watt Suivi Conso Énergie. 2025. https://www.hellowatt.fr/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_33",
+      "title": "eCO2mix",
+      "type": "Industry",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Grading & Classification"
+      ],
+      "submethods": [
+        "Table + Number",
+        "Composite Graphics",
+        "Transformed % Bar",
+        "Donut Chart",
+        "Color Ramp Bar",
+        "Heatmap",
+        "Bubble Chart",
+        "Line Chart",
+        "Pie Chart",
+        "Stacked Bar Chart",
+        "Bar Chart",
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Percentage Delta",
+        "Typical / Average",
+        "Scales / Grading"
+      ],
+      "image": "I_33_1",
+      "images": [
+        "I_33_1",
+        "I_33_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.rte-france.com/eco2mix",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Table + Number",
+        "Composite Graphics",
+        "Transformed % Bar",
+        "Donut Chart",
+        "Color Ramp Bar",
+        "Heatmap",
+        "Bubble Chart",
+        "Line Chart",
+        "Pie Chart",
+        "Stacked Bar Chart",
+        "Bar Chart",
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Percentage Delta",
+        "Typical / Average",
+        "Scales / Grading"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "eCO2mix. 2025. https://www.rte-france.com/eco2mix. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_34",
+      "title": "Too Good To Go",
+      "type": "Industry",
+      "scenarios": [
+        "Food & Waste",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Food Purchasing",
+        "Sustainable Habit Formation"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Analogy / Equivalent Value",
+        "Absolute Delta",
+        "No Action"
+      ],
+      "image": "I_34_1",
+      "images": [
+        "I_34_1",
+        "I_34_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.toogoodtogo.com/",
+      "original_subscenarios": [
+        "Food Purchasing",
+        "Sustainable Habit Formation"
+      ],
+      "original_submethods": [
+        "Analogy / Equivalent Value",
+        "Absolute Delta",
+        "No Action"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing; Sustainable Habit Formation",
+      "figure": "",
+      "source_citation": "Too Good To Go. 2025. https://www.toogoodtogo.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_35",
+      "title": "Chipotle",
+      "type": "Industry",
+      "scenarios": [
+        "Food & Waste",
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Food Purchasing",
+        "Logistics and Delivery"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Absolute Delta",
+        "No Action"
+      ],
+      "image": "I_35_1",
+      "images": [
+        "I_35_1",
+        "I_35_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.chipotle.com",
+      "original_subscenarios": [
+        "Food Purchasing",
+        "Logistics and Delivery"
+      ],
+      "original_submethods": [
+        "Absolute Delta",
+        "No Action"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing; Logistics and Delivery",
+      "figure": "",
+      "source_citation": "Chipotle. 2025. https://www.chipotle.com. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_36",
+      "title": "Feeds – Sustainable Meal Plans",
+      "type": "Industry",
+      "scenarios": [
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Food Purchasing"
+      ],
+      "methods": [
+        "Reference / Benchmark",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "No Action",
+        "Absolute Delta"
+      ],
+      "image": "I_36_1",
+      "images": [
+        "I_36_1"
+      ],
+      "desc": "",
+      "source_url": "https://www.feedsfeedsfeeds.com/",
+      "original_subscenarios": [
+        "Food Purchasing"
+      ],
+      "original_submethods": [
+        "No Action",
+        "Absolute Delta"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing",
+      "figure": "",
+      "source_citation": "Feeds – Sustainable Meal Plans. 2025. https://www.feedsfeedsfeeds.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_37",
+      "title": "Yindii",
+      "type": "Industry",
+      "scenarios": [
+        "Food & Waste",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Food Purchasing",
+        "Green Social Feedback & Interaction"
+      ],
+      "methods": [
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Analogy / Equivalent Value",
+        "Absolute Delta"
+      ],
+      "image": "I_37_1",
+      "images": [
+        "I_37_1",
+        "I_37_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.yindii.co/",
+      "original_subscenarios": [
+        "Food Purchasing",
+        "Green Social Feedback and Interaction"
+      ],
+      "original_submethods": [
+        "Analogy / Equivalent Value",
+        "Absolute Delta"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing; Green Social Feedback & Interaction",
+      "figure": "",
+      "source_citation": "Yindii. 2025. https://www.yindii.co/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_38",
+      "title": "Fork Ranger",
+      "type": "Industry",
+      "scenarios": [
+        "Food & Waste",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Food Purchasing",
+        "Green Education"
+      ],
+      "methods": [
+        "Gamified Feedback",
+        "Chart / Table",
+        "Numerical Comparison",
+        "Text Comparison"
+      ],
+      "submethods": [
+        "Virtual Growth & Rewards",
+        "Bar Chart",
+        "Line Chart",
+        "Pie Chart",
+        "Score",
+        "Composite Graphics",
+        "Numerical vs Numerical",
+        "Percentage Delta",
+        "Recommended Text"
+      ],
+      "image": "I_38_1",
+      "images": [
+        "I_38_1",
+        "I_38_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.forkranger.com/",
+      "original_subscenarios": [
+        "Food Purchasing",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Virtual Growth & Rewards",
+        "Bar Chart",
+        "Line Chart",
+        "Pie Chart",
+        "Score",
+        "Composite Graphics",
+        "Numerical vs Numerical",
+        "Percentage Delta",
+        "Recommended Text"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing; Green Education",
+      "figure": "",
+      "source_citation": "Fork Ranger. 2025. https://www.forkranger.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_39",
+      "title": "reewild",
+      "type": "Industry",
+      "scenarios": [
+        "Food & Waste",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Food Purchasing",
+        "Green Social Feedback & Interaction",
+        "Purchase Decisions"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Grading & Classification",
+        "Gamified Feedback",
+        "Chart / Table",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Absolute Delta",
+        "Score",
+        "Bar Chart",
+        "Personal History",
+        "No Action",
+        "Line Chart",
+        "Composite Graphics"
+      ],
+      "image": "I_39_1",
+      "images": [
+        "I_39_1",
+        "I_39_2"
+      ],
+      "desc": "",
+      "source_url": "https://reewild.com/",
+      "original_subscenarios": [
+        "Food Purchasing",
+        "Green Social Feedback and Interaction",
+        "Purchase Decisions"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Absolute Delta",
+        "Score",
+        "Bar Chart",
+        "Personal History",
+        "No Action",
+        "Line Chart",
+        "Composite Graphics"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing; Green Social Feedback & Interaction; Purchase Decisions",
+      "figure": "",
+      "source_citation": "reewild. 2025. https://reewild.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_40",
+      "title": "Horizon",
+      "type": "Industry",
+      "scenarios": [
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Waste Recovery & Management"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Count / Frequency",
+        "Numerical vs Numerical",
+        "Transformed % Bar",
+        "Composite Graphics"
+      ],
+      "image": "I_40_1",
+      "images": [
+        "I_40_1",
+        "I_40_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.horizonapp.uk/",
+      "original_subscenarios": [
+        "Waste Recovery & Management"
+      ],
+      "original_submethods": [
+        "Count / Frequency",
+        "Numerical vs Numerical",
+        "Transformed % Bar",
+        "Composite Graphics"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Waste Recovery & Management",
+      "figure": "",
+      "source_citation": "Horizon. 2025. https://www.horizonapp.uk/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_41",
+      "title": "NoWaste",
+      "type": "Industry",
+      "scenarios": [
+        "Food & Waste",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Waste Recovery & Management",
+        "Sustainable Habit Formation"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Transformed % Bar",
+        "Absolute Delta",
+        "Numerical vs Numerical",
+        "Percentage Delta"
+      ],
+      "image": "I_41_1",
+      "images": [
+        "I_41_1",
+        "I_41_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.nowasteapp.com/",
+      "original_subscenarios": [
+        "Waste Recovery & Management",
+        "Sustainable Habit Formation"
+      ],
+      "original_submethods": [
+        "Transformed % Bar",
+        "Absolute Delta",
+        "Numerical vs Numerical",
+        "Percentage Delta"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Waste Recovery & Management; Sustainable Habit Formation",
+      "figure": "",
+      "source_citation": "NoWaste. 2025. https://www.nowasteapp.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_42",
+      "title": "Recycle Pay",
+      "type": "Industry",
+      "scenarios": [
+        "Food & Waste",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Waste Recovery & Management",
+        "Green Social Feedback & Interaction"
+      ],
+      "methods": [
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Absolute Delta"
+      ],
+      "image": "I_42_1",
+      "images": [
+        "I_42_1"
+      ],
+      "desc": "",
+      "source_url": "https://play.google.com/store/apps/details?id=com.recyclepay.customerapp&hl=en-IN",
+      "original_subscenarios": [
+        "Waste Recovery & Management",
+        "Green Social Feedback and Interaction"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Absolute Delta"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Waste Recovery & Management; Green Social Feedback & Interaction",
+      "figure": "",
+      "source_citation": "Recycle Pay. 2025. https://play.google.com/store/apps/details?id=com.recyclepay.customerapp&hl=en-IN. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_43",
+      "title": "Bower: Återvinn & bli belönad",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle",
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Waste Recovery & Management"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Icon / Symbolic",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Absolute Delta",
+        "Achievements / Medals",
+        "Sustainability Emphasis Icons",
+        "Personal History",
+        "Count / Frequency"
+      ],
+      "image": "I_43_1",
+      "images": [
+        "I_43_1",
+        "I_43_2"
+      ],
+      "desc": "",
+      "source_url": "https://getbower.com/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Waste Recovery & Management"
+      ],
+      "original_submethods": [
+        "Absolute Delta",
+        "Achievements / Medals",
+        "Sustainability Emphasis Icons",
+        "Personal History",
+        "Count / Frequency"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Waste Recovery & Management",
+      "figure": "",
+      "source_citation": "Bower: Återvinn & bli belönad. 2025. https://getbower.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_44",
+      "title": "scrapp",
+      "type": "Industry",
+      "scenarios": [
+        "Food & Waste",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Waste Recovery & Management",
+        "Green Education"
+      ],
+      "methods": [
+        "Icon / Symbolic",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Sustainability Emphasis Icons",
+        "Numerical vs Numerical"
+      ],
+      "image": "I_44_1",
+      "images": [
+        "I_44_1",
+        "I_44_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.scrappzero.com/",
+      "original_subscenarios": [
+        "Waste Recovery & Management",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Sustainability Emphasis Icons",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Waste Recovery & Management; Green Education",
+      "figure": "",
+      "source_citation": "scrapp. 2025. https://www.scrappzero.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_45",
+      "title": "Acorns",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Purchase Decisions"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Percentage Delta",
+        "Typical / Average"
+      ],
+      "image": "I_45_1",
+      "images": [
+        "I_45_1"
+      ],
+      "desc": "",
+      "source_url": "https://www.acorns.com/",
+      "original_subscenarios": [
+        "Purchase Decisions"
+      ],
+      "original_submethods": [
+        "Percentage Delta",
+        "Typical / Average"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Purchase Decisions",
+      "figure": "",
+      "source_citation": "Acorns. 2025. https://www.acorns.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_46",
+      "title": "bunq",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Purchase Decisions",
+        "Sustainable Habit Formation"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Chart / Table",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Personal History",
+        "Composite Graphics",
+        "Bar Chart",
+        "Donut Chart",
+        "Virtual Growth & Rewards",
+        "No Action"
+      ],
+      "image": "I_46_1",
+      "images": [
+        "I_46_1",
+        "I_46_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.bunq.com/en-fr/",
+      "original_subscenarios": [
+        "Purchase Decisions",
+        "Sustainable Habit Formation"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Personal History",
+        "Composite Graphics",
+        "Bar Chart",
+        "Donut Chart",
+        "Virtual Growth & Rewards",
+        "No Action"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Purchase Decisions; Sustainable Habit Formation",
+      "figure": "",
+      "source_citation": "bunq. 2025. https://www.bunq.com/en-fr/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_47",
+      "title": "Klarna",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Purchase Decisions",
+        "Second-hand Transactions & Sharing Economy"
+      ],
+      "methods": [
+        "Reference / Benchmark",
+        "Chart / Table",
+        "Numerical Comparison",
+        "Text Comparison"
+      ],
+      "submethods": [
+        "Typical / Average",
+        "Bar Chart",
+        "Absolute Delta",
+        "Personal History",
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Recommended Text"
+      ],
+      "image": "I_47_1",
+      "images": [
+        "I_47_1",
+        "I_47_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.klarna.com/",
+      "original_subscenarios": [
+        "Purchase Decisions",
+        "Second-hand Transactions and Sharing Economy"
+      ],
+      "original_submethods": [
+        "Typical / Average",
+        "Bar Chart",
+        "Absolute Delta",
+        "Personal History",
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Recommended Text"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Purchase Decisions; Second-hand Transactions & Sharing Economy",
+      "figure": "",
+      "source_citation": "Klarna. 2025. https://www.klarna.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_48",
+      "title": "Carbon Quest",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Personal Electronic Devices",
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction",
+        "Green & Carbon Neutrality Actions"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Icon / Symbolic",
+        "Reference / Benchmark",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Increase / Decrease Icons",
+        "No Action",
+        "Personal History",
+        "Peer / Ranking",
+        "Goal / Budget",
+        "Stacked Bar Chart"
+      ],
+      "image": "I_48_1",
+      "images": [
+        "I_48_1",
+        "I_48_2"
+      ],
+      "desc": "",
+      "source_url": "https://apps.apple.com/us/app/carbon-quest/id6475640375",
+      "original_subscenarios": [
+        "Personal Electronic Devices",
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction",
+        "Green and Carbon Neutrality Actions"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Increase / Decrease Icons",
+        "No Action",
+        "Personal History",
+        "Peer / Ranking",
+        "Goal / Budget",
+        "Stacked Bar Chart"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Personal Electronic Devices; Sustainable Habit Formation; Green Social Feedback & Interaction; Green & Carbon Neutrality Actions",
+      "figure": "",
+      "source_citation": "Carbon Quest. 2025. https://apps.apple.com/us/app/carbon-quest/id6475640375. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_49",
+      "title": "Cool the Globe",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction",
+        "Green & Carbon Neutrality Actions",
+        "Green Education"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Gamified Feedback",
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Composite Graphics",
+        "Score",
+        "Absolute Delta",
+        "Goal / Budget",
+        "Analogy / Equivalent Value",
+        "Count / Frequency",
+        "Progress Bars",
+        "Table + Number",
+        "Numerical vs Numerical"
+      ],
+      "image": "I_49_1",
+      "images": [
+        "I_49_1",
+        "I_49_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.cooltheglobe.org/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction",
+        "Green and Carbon Neutrality Actions",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Composite Graphics",
+        "Score",
+        "Absolute Delta",
+        "Goal / Budget",
+        "Analogy / Equivalent Value",
+        "Count / Frequency",
+        "Progress Bars",
+        "Table + Number",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Social Feedback & Interaction; Green & Carbon Neutrality Actions; Green Education",
+      "figure": "",
+      "source_citation": "Cool the Globe. 2025. https://www.cooltheglobe.org/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_50",
+      "title": "Ailuna",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction",
+        "Green Education"
+      ],
+      "methods": [
+        "Gamified Feedback",
+        "Text Comparison",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Score",
+        "Recommended Text",
+        "Achievements / Medals",
+        "Virtual Growth & Rewards",
+        "Count / Frequency"
+      ],
+      "image": "I_50_1",
+      "images": [
+        "I_50_1",
+        "I_50_2"
+      ],
+      "desc": "",
+      "source_url": "https://ailuna.com/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Score",
+        "Recommended Text",
+        "Achievements / Medals",
+        "Virtual Growth & Rewards",
+        "Count / Frequency"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Social Feedback & Interaction; Green Education",
+      "figure": "",
+      "source_citation": "Ailuna. 2025. https://ailuna.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_51",
+      "title": "Earth Hero",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction"
+      ],
+      "methods": [
+        "Gamified Feedback",
+        "Text Comparison",
+        "Numerical Comparison",
+        "Chart / Table",
+        "Grading & Classification",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Score",
+        "Recommended Text",
+        "Achievements / Medals",
+        "Virtual Growth & Rewards",
+        "Count / Frequency",
+        "Progress Bar",
+        "Scales / Grading",
+        "Stacked Bar Chart",
+        "Goal / Budget",
+        "Percentage Delta",
+        "Absolute Delta",
+        "Typical / Average",
+        "Composite Graphics",
+        "Transformed % Bar",
+        "Numerical vs Numerical",
+        "Personal History"
+      ],
+      "image": "I_51_1",
+      "images": [
+        "I_51_1",
+        "I_51_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.earthhero.org/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction"
+      ],
+      "original_submethods": [
+        "Score",
+        "Recommended Text",
+        "Achievements / Medals",
+        "Virtual Growth & Rewards",
+        "Count / Frequency",
+        "Progress Bar",
+        "Scales / Grading",
+        "Stacked Bar Chart",
+        "Goal / Budget",
+        "Percentage Delta",
+        "Absolute Delta",
+        "Typical / Average",
+        "Composite Graphics",
+        "Transformed % Bar",
+        "Numerical vs Numerical",
+        "Personal History"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Social Feedback & Interaction",
+      "figure": "",
+      "source_citation": "Earth Hero. 2025. https://www.earthhero.org/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_52",
+      "title": "GetGreen",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction",
+        "Green Education"
+      ],
+      "methods": [
+        "Gamified Feedback",
+        "Numerical Comparison",
+        "Chart / Table",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Score",
+        "Count / Frequency",
+        "Progress Bars",
+        "Pie Chart",
+        "Goal / Budget",
+        "No Action"
+      ],
+      "image": "I_52_1",
+      "images": [
+        "I_52_1",
+        "I_52_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.getgreen.eco/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Score",
+        "Count / Frequency",
+        "Progress Bars",
+        "Pie Chart",
+        "Goal / Budget",
+        "No Action"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Social Feedback & Interaction; Green Education",
+      "figure": "",
+      "source_citation": "GetGreen. 2025. https://www.getgreen.eco/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_53",
+      "title": "Pawprint",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction",
+        "Intangible Consumption & Services"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Icon / Symbolic",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Absolute Delta",
+        "Score",
+        "Sustainability Emphasis Icons",
+        "Personal History",
+        "No Action",
+        "Numerical vs Numerical",
+        "Peer / Ranking"
+      ],
+      "image": "I_53_1",
+      "images": [
+        "I_53_1",
+        "I_53_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.pawprint.eco/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction",
+        "Intangible Consumption and Services"
+      ],
+      "original_submethods": [
+        "Absolute Delta",
+        "Score",
+        "Sustainability Emphasis Icons",
+        "Personal History",
+        "No Action",
+        "Numerical vs Numerical",
+        "Peer / Ranking"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Social Feedback & Interaction; Intangible Consumption & Services",
+      "figure": "",
+      "source_citation": "Pawprint. 2025. https://www.pawprint.eco/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_54",
+      "title": "Tracky",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle",
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Responsible Travel"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Composite Graphics",
+        "Line Chart",
+        "Count / Frequency",
+        "Analogy / Equivalent Value",
+        "Absolute Delta"
+      ],
+      "image": "I_54_1",
+      "images": [
+        "I_54_1"
+      ],
+      "desc": "",
+      "source_url": "https://trackylocation.com/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Responsible Travel"
+      ],
+      "original_submethods": [
+        "Composite Graphics",
+        "Line Chart",
+        "Count / Frequency",
+        "Analogy / Equivalent Value",
+        "Absolute Delta"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Responsible Travel",
+      "figure": "",
+      "source_citation": "Tracky. 2025. https://trackylocation.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_55",
+      "title": "JouleBug",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction",
+        "Green Education"
+      ],
+      "methods": [
+        "Gamified Feedback",
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Score",
+        "Analogy / Equivalent Value",
+        "Peer / Ranking",
+        "Absolute Delta",
+        "Achievements / Medals"
+      ],
+      "image": "I_55_1",
+      "images": [
+        "I_55_1",
+        "I_55_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.joulebug.com",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Score",
+        "Analogy / Equivalent Value",
+        "Peer / Ranking",
+        "Absolute Delta",
+        "Achievements / Medals"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Social Feedback & Interaction; Green Education",
+      "figure": "",
+      "source_citation": "JouleBug. 2025. https://www.joulebug.com. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_56",
+      "title": "AWorld",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction",
+        "Green Education"
+      ],
+      "methods": [
+        "Gamified Feedback",
+        "Chart / Table",
+        "Numerical Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Virtual Growth & Rewards",
+        "Composite Graphics",
+        "Achievements / Medals",
+        "Count / Frequency",
+        "Score",
+        "Peer / Ranking",
+        "Goal / Budget",
+        "Transformed % Bar",
+        "Line Chart"
+      ],
+      "image": "I_56_1",
+      "images": [
+        "I_56_1",
+        "I_56_2"
+      ],
+      "desc": "",
+      "source_url": "https://aworld.org/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Virtual Growth & Rewards",
+        "Composite Graphics",
+        "Achievements / Medals",
+        "Count / Frequency",
+        "Score",
+        "Peer / Ranking",
+        "Goal / Budget",
+        "Transformed % Bar",
+        "Line Chart"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Social Feedback & Interaction; Green Education",
+      "figure": "",
+      "source_citation": "AWorld. 2025. https://aworld.org/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_57",
+      "title": "Ein guter Tag",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Chart / Table",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Absolute Delta",
+        "Composite Graphics",
+        "No Action"
+      ],
+      "image": "I_57_1",
+      "images": [
+        "I_57_1",
+        "I_57_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.eingutertag.org/en/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Absolute Delta",
+        "Composite Graphics",
+        "No Action"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Social Feedback & Interaction",
+      "figure": "",
+      "source_citation": "Ein guter Tag. 2025. https://www.eingutertag.org/en/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_58",
+      "title": "Eco Life Hacks",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Education"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Text Comparison"
+      ],
+      "submethods": [
+        "Composite Graphics",
+        "Recommended Text"
+      ],
+      "image": "I_58_1",
+      "images": [
+        "I_58_1"
+      ],
+      "desc": "",
+      "source_url": "https://ecolifehacks.com/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Composite Graphics",
+        "Recommended Text"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Education",
+      "figure": "",
+      "source_citation": "Eco Life Hacks. 2025. https://ecolifehacks.com/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_59",
+      "title": "EcoHero",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Chart / Table",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Count / Frequency",
+        "Composite Graphics",
+        "Goal / Budget",
+        "Peer / Ranking",
+        "No Action",
+        "Analogy / Equivalent Value",
+        "Achievements / Medals"
+      ],
+      "image": "I_59_2",
+      "images": [
+        "I_59_2"
+      ],
+      "desc": "",
+      "source_url": "https://ecohero.app/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Count / Frequency",
+        "Composite Graphics",
+        "Goal / Budget",
+        "Peer / Ranking",
+        "No Action",
+        "Analogy / Equivalent Value",
+        "Achievements / Medals"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Social Feedback & Interaction",
+      "figure": "",
+      "source_citation": "EcoHero. 2025. https://ecohero.app/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_60",
+      "title": "2zero",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction",
+        "Green Education",
+        "Green & Carbon Neutrality Actions"
+      ],
+      "methods": [
+        "Reference / Benchmark",
+        "Gamified Feedback",
+        "Grading & Classification",
+        "Numerical Comparison",
+        "Icon / Symbolic",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "No Action",
+        "Score",
+        "Scales / Grading",
+        "Progress Bars",
+        "Numerical vs Numerical",
+        "Peer / Ranking",
+        "Achievements / Medals",
+        "Saved / Reduced Indicators",
+        "Absolute Delta",
+        "Donut Chart",
+        "Typical / Average"
+      ],
+      "image": "I_60_1",
+      "images": [
+        "I_60_1",
+        "I_60_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.2zero.earth/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction",
+        "Green Education",
+        "Green and Carbon Neutrality Actions"
+      ],
+      "original_submethods": [
+        "No Action",
+        "Score",
+        "Scales / Grading",
+        "Progress Bars",
+        "Numerical vs Numerical",
+        "Peer / Ranking",
+        "Achievements / Medals",
+        "Saved / Reduced Indicators",
+        "Absolute Delta",
+        "Donut Chart",
+        "Typical / Average"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Social Feedback & Interaction; Green Education; Green & Carbon Neutrality Actions",
+      "figure": "",
+      "source_citation": "2zero. 2025. https://www.2zero.earth/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_61",
+      "title": "Kora",
+      "type": "Industry",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green & Carbon Neutrality Actions"
+      ],
+      "methods": [
+        "Reference / Benchmark",
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "No Action",
+        "Percentage Delta",
+        "Score",
+        "Donut Chart",
+        "Bar Chart",
+        "Line Chart",
+        "Composite Graphics",
+        "Progress Bars",
+        "Virtual Growth & Rewards",
+        "Analogy / Equivalent Value",
+        "Peer / Ranking",
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Count / Frequency",
+        "Stacked Bar Chart",
+        "Goal / Budget"
+      ],
+      "image": "I_61_1",
+      "images": [
+        "I_61_1",
+        "I_61_2"
+      ],
+      "desc": "",
+      "source_url": "https://www.kora.app/",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green and Carbon Neutrality Actions"
+      ],
+      "original_submethods": [
+        "No Action",
+        "Percentage Delta",
+        "Score",
+        "Donut Chart",
+        "Bar Chart",
+        "Line Chart",
+        "Composite Graphics",
+        "Progress Bars",
+        "Virtual Growth & Rewards",
+        "Analogy / Equivalent Value",
+        "Peer / Ranking",
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Count / Frequency",
+        "Stacked Bar Chart",
+        "Goal / Budget"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green & Carbon Neutrality Actions",
+      "figure": "",
+      "source_citation": "Kora. 2025. https://www.kora.app/. Accessed: 2025-09-17."
+    },
+    {
+      "id": "I_62",
+      "title": "eevie",
+      "type": "Industry",
+      "scenarios": [
+        "Computing & ICT",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Artificial Intelligence Tools",
+        "Sustainable Habit Formation",
+        "Green Social Feedback & Interaction"
+      ],
+      "methods": [
+        "Gamified Feedback",
+        "Reference / Benchmark",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Score",
+        "Peer / Ranking",
+        "Virtual Growth & Rewards",
+        "Count / Frequency"
+      ],
+      "image": "I_62_1",
+      "images": [
+        "I_62_1"
+      ],
+      "desc": "",
+      "source_url": "https://play.google.com/store/apps/details?id=io.humbldt.eevie&hl",
+      "original_subscenarios": [
+        "Artificial Intelligence Tools",
+        "Sustainable Habit Formation",
+        "Green Social Feedback and Interaction"
+      ],
+      "original_submethods": [
+        "Score",
+        "Peer / Ranking",
+        "Virtual Growth & Rewards",
+        "Count / Frequency"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Artificial Intelligence Tools; Sustainable Habit Formation; Green Social Feedback & Interaction",
+      "figure": "",
+      "source_citation": "eevie. 2025. https://play.google.com/store/apps/details?id=io.humbldt.eevie&hl. Accessed: 2025-09-17."
+    },
+    {
+      "id": "A_1",
+      "title": "Promoting Sustainable Charging Through User Interface Interventions",
+      "type": "Academia",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Vehicle Usage"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Sustainability Emphasis Icons",
+        "Percentage Delta"
+      ],
+      "image": "A_1_1",
+      "images": [
+        "A_1_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3580585.3607176",
+      "original_subscenarios": [
+        "Vehicle Usage"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Sustainability Emphasis Icons",
+        "Percentage Delta"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Vehicle Usage",
+      "figure": "",
+      "source_citation": "Alexandre L. S. Filipowicz, Nayeli Suseth Bravo, Rumen Iliev, Vikram Mohanty, Charlene C. Wu, and David A. Shamma. 2023. Promoting Sustainable Charging Through User Interface Interventions. In Proceedings of the 15th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (Ingolstadt Germany, 2023-09-18). ACM, 267–279. doi:10.1145/3580585.3607176"
+    },
+    {
+      "id": "A_2",
+      "title": "Sustainability by Design: How to Encourage Users to Choose Energy-Saving Programs and Settings when Washing Laundry",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Smart Home Devices"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table",
+        "Text Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Composite Graphics",
+        "Recommended Text",
+        "Typical / Average"
+      ],
+      "image": "A_2_1",
+      "images": [
+        "A_2_1",
+        "A_2_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3544548.3581150",
+      "original_subscenarios": [
+        "Smart Home Devices"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Composite Graphics",
+        "Recommended Text",
+        "Typical / Average"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Smart Home Devices",
+      "figure": "",
+      "source_citation": "Laura Grönewald, Julian Weiblen, Matthias Laschke, Lara Christoforakos, and Marc Hassenzahl. 2023. Sustainability by Design. How to Encourage Users to Choose Energy-Saving Programs and Settings when Washing Laundry. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (Hamburg Germany, 2023-04-19). ACM, 1–14. doi:10.1145/3544548.3581150"
+    },
+    {
+      "id": "A_3",
+      "title": "Design Friction and Digital Nudging Impact on the Human Decision-Making Process",
+      "type": "Academia",
+      "scenarios": [
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Food Purchasing"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Icon / Symbolic",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Sustainability Emphasis Icons",
+        "No Action"
+      ],
+      "image": "A_3_1",
+      "images": [
+        "A_3_1",
+        "A_3_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3591156.3591183",
+      "original_subscenarios": [
+        "Food Purchasing"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Sustainability Emphasis Icons",
+        "No Action"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing",
+      "figure": "",
+      "source_citation": "Thomas Mejtoft, Emma Parsjö, Ole Norberg, and Ulrik Söderström. 2023. Design Friction and Digital Nudging: Impact on the Human Decision- Making Process. In Proceedings of the 2023 5th International Conference on Image, Video and Signal Processing (Singapore Singapore, 2023-03-24). ACM, 183–190. doi:10.1145/3591156.3591183"
+    },
+    {
+      "id": "A_4",
+      "title": "Time and Money Matters for Sustainability: Insights on User Preferences on Renewable Energy for Electric Vehicle Charging Stations",
+      "type": "Academia",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Vehicle Usage"
+      ],
+      "methods": [
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Sustainability Emphasis Icons"
+      ],
+      "image": "A_4_1",
+      "images": [
+        "A_4_1",
+        "A_4_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3670653.3670677",
+      "original_subscenarios": [
+        "Vehicle Usage"
+      ],
+      "original_submethods": [
+        "Sustainability Emphasis Icons"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Vehicle Usage",
+      "figure": "",
+      "source_citation": "Delong Du, Apostolos Vavouris, Omid Veisi, Lu Jin, Gunnar Stevens, Lina Stankovic, Vladimir Stankovic, and Alexander Boden. 2024. Time and Money Matters for Sustainability: Insights on User Preferences on Renewable Energy for Electric Vehicle Charging Stations. In Proceedings of Mensch und Computer 2024 (Karlsruhe Germany, 2024-09). ACM, 269–278. doi:10.1145/3670653.3670677"
+    },
+    {
+      "id": "A_5",
+      "title": "Can Gamification Make Driving Styles More Sustainable? A Real-World Pilot Study",
+      "type": "Academia",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Vehicle Usage"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Grading & Classification",
+        "Chart / Table",
+        "Gamified Feedback",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Line Chart",
+        "Score",
+        "Peer / Ranking"
+      ],
+      "image": "A_5_1",
+      "images": [
+        "A_5_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3582515.3609550",
+      "original_subscenarios": [
+        "Vehicle Usage"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Line Chart",
+        "Score",
+        "Peer / Ranking"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Vehicle Usage",
+      "figure": "",
+      "source_citation": "Giuliana Vitiello, Andrea Antonio Cantone, Marco Romano, Monica Sebillo, and Simone Silvestri. 2023. Can Gamification Make Driving Styles More Sustainable? A Real-World Pilot Study. In Proceedings of the 2023 ACM Conference on Information Technology for Social Good (Lisbon Portugal, 2023-09-06). ACM, 315–323. doi:10.1145/3582515.3609550"
+    },
+    {
+      "id": "A_6",
+      "title": "CEEMS: A Resource Manager Agnostic Energy and Emissions Monitoring Stack",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Personal Electronic Devices"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Composite Graphics",
+        "Line Chart",
+        "Table + Number"
+      ],
+      "image": "A_6_1",
+      "images": [
+        "A_6_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1109/SCW63240.2024.00233",
+      "original_subscenarios": [
+        "Personal Electronic Devices"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Composite Graphics",
+        "Line Chart",
+        "Table + Number"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Personal Electronic Devices",
+      "figure": "",
+      "source_citation": "Mahendra Paipuri. 2024. CEEMS: A Resource Manager Agnostic Energy and Emissions Monitoring Stack. In SC24-W: Workshops of the International Conference for High Performance Computing, Networking, Storage and Analysis (Atlanta, GA, USA, 2024-11-17). IEEE, 1862–1866. doi:10.1109/SCW63240.2024.00233"
+    },
+    {
+      "id": "A_7",
+      "title": "Promoting Energy-Efficient Behavior by Depicting Social Norms in a Recommender Interface",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle",
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Purchase Decisions",
+        "Smart Home Devices"
+      ],
+      "methods": [
+        "Grading & Classification",
+        "Reference / Benchmark",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Scales / Grading",
+        "Peer / Ranking",
+        "Numerical vs Numerical",
+        "No Action",
+        "Absolute Delta"
+      ],
+      "image": "A_7_1",
+      "images": [
+        "A_7_1",
+        "A_7_3"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3460005",
+      "original_subscenarios": [
+        "Purchase Decisions",
+        "Smart Home Devices"
+      ],
+      "original_submethods": [
+        "Scales / Grading",
+        "Peer / Ranking",
+        "Numerical vs Numerical",
+        "No Action",
+        "Absolute Delta"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Purchase Decisions; Smart Home Devices",
+      "figure": "",
+      "source_citation": "Alain Starke, Martijn Willemsen, and Chris Snijders. 2021. Promoting Energy-Efficient Behavior by Depicting Social Norms in a Recommender Interface. 11, 3 (2021), 1–32. doi:10.1145/3460005"
+    },
+    {
+      "id": "A_8",
+      "title": "A Case Study of Situating Energy Temporality towards Designing for Communal Energy",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "No Action",
+        "Composite Graphics"
+      ],
+      "image": "A_8_1",
+      "images": [
+        "A_8_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3679318.3685484",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "No Action",
+        "Composite Graphics"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Kristina Skjødt Secher, Victor Vadmand Jensen, Rikke Hagensby Jensen, Maria Kjærup Overgaard, and Ida Thoft Christiansen. 2024. A Case Study of Situating Energy Temporality towards Designing for Communal Energy. In Nordic Conference on Human-Computer Interaction (Uppsala Sweden, 2024-10-13). ACM, 1–11. doi:10.1145/3679318.3685484"
+    },
+    {
+      "id": "A_9",
+      "title": "Using Explanations as Energy-Saving Frames: A User-Centric Recommender Study",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle",
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Purchase Decisions",
+        "Smart Home Devices"
+      ],
+      "methods": [
+        "Grading & Classification",
+        "Reference / Benchmark",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Scales / Grading",
+        "Peer / Ranking",
+        "Numerical vs Numerical",
+        "No Action",
+        "Absolute Delta"
+      ],
+      "image": "A_9_1",
+      "images": [
+        "A_9_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3450614.3464477",
+      "original_subscenarios": [
+        "Purchase Decisions",
+        "Smart Home Devices"
+      ],
+      "original_submethods": [
+        "Scales / Grading",
+        "Peer / Ranking",
+        "Numerical vs Numerical",
+        "No Action",
+        "Absolute Delta"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Purchase Decisions; Smart Home Devices",
+      "figure": "",
+      "source_citation": "Alain D. Starke, Martijn C. Willemsen, and Chris Snijders. 2021. Using Explanations as Energy-Saving Frames: A User-Centric Recommender Study. In Adjunct Proceedings of the 29th ACM Conference on User Modeling, Adaptation and Personalization (Utrecht Netherlands, 2021-06-21). ACM, 229–237. doi:10.1145/3450614.3464477"
+    },
+    {
+      "id": "A_10",
+      "title": "EcoSketch: Promoting Sustainable Design through Iterative Environmental Assessment during Early-Stage Product Development",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Purchase Decisions"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Pie Chart",
+        "Bar Chart"
+      ],
+      "image": "A_10_1",
+      "images": [
+        "A_10_1",
+        "A_10_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3648436",
+      "original_subscenarios": [
+        "Purchase Decisions"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Pie Chart",
+        "Bar Chart"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Purchase Decisions",
+      "figure": "",
+      "source_citation": "Tejaswini Chatty, Bryton L. Moeller, Ioana A. Pantelimon, Catherine D. Parnell, Tahsin M. Khan, Lise Laurin, Jeremy Faludi, and Elizabeth L. Murnane. 2024. EcoSketch: Promoting Sustainable Design through Iterative Environmental Assessment during Early-Stage Product Development. 2, 2 (2024), 1–29. doi:10.1145/3648436"
+    },
+    {
+      "id": "A_11",
+      "title": "Informed Dashboard Designs for Microgrid Electricity Market Operators",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Grading & Classification",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Bar Chart",
+        "Line Chart",
+        "Numerical vs Numerical",
+        "Personal History",
+        "Typical / Average",
+        "Range Class",
+        "Transformed % Bar",
+        "Absolute Delta",
+        "Count / Frequency",
+        "Peer / Ranking",
+        "Achievements / Medals"
+      ],
+      "image": "A_11_1",
+      "images": [
+        "A_11_1",
+        "A_11_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3447555.3466604",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Bar Chart",
+        "Line Chart",
+        "Numerical vs Numerical",
+        "Personal History",
+        "Typical / Average",
+        "Range Class",
+        "Transformed % Bar",
+        "Absolute Delta",
+        "Count / Frequency",
+        "Peer / Ranking",
+        "Achievements / Medals"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Sarah Goodwin, Yasmina Dkhissi, Qiuhong Wu, Brendan Moyle, Karen Freidin, and Ariel Liebman. 2021. Informed Dashboard Designs for Microgrid Electricity Market Operators. In Proceedings of the Twelfth ACM International Conference on Future Energy Systems (Virtual Event Italy, 2021-06-22). ACM, 406–411. doi:10.1145/3447555.3466604"
+    },
+    {
+      "id": "A_12",
+      "title": "Deep Clustering Algorithm for Load Profile Business Intelligence Dashboard for Consumer and Utility Management",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Line Chart",
+        "Bar Chart",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_12_1",
+      "images": [
+        "A_12_1",
+        "A_12_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3658321.3658368",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Line Chart",
+        "Bar Chart",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Artur Felipe Da Silva Veloso, José Valdemir Dos Reis, Fillipe Matos Vasconcelos, Jocines De La Flora Silveira, Pedro Abreu, Geraldo Sarmento, Thiago Allisson Silva, and Ricardo Lira Rabêlo. 2024. Deep Clustering Algorithm for Load Profile Business Intelligence Dashboard for Consumer and Utility Management. In Proceedings of the 20th Brazilian Symposium on Information Systems (Juiz de Fora Brazil, 2024-05-20). ACM, 1–8. doi:10.1145/3658321.3658368"
+    },
+    {
+      "id": "A_13",
+      "title": "Awareness, Understanding, and Action: A Conceptual Framework of User Experiences and Expectations about Indoor Air Quality Visualizations",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Smart Home Devices"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Grading & Classification"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Scales / Grading"
+      ],
+      "image": "A_13_1",
+      "images": [
+        "A_13_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3313831.3376521",
+      "original_subscenarios": [
+        "Smart Home Devices"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Scales / Grading"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Smart Home Devices",
+      "figure": "",
+      "source_citation": "Sunyoung Kim and Muyang Li. 2020. Awareness, Understanding, and Action: A Conceptual Framework of User Experiences and Expectations about Indoor Air Quality Visualizations. In Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems (Honolulu HI USA, 2020-04-21). ACM, 1–12. doi:10.1145/3313831.3376521"
+    },
+    {
+      "id": "A_14",
+      "title": "EcoMeal: Gamified Eco-Feedback of Food Consumption using a Virtual Garden",
+      "type": "Academia",
+      "scenarios": [
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Food Purchasing"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Grading & Classification",
+        "Icon / Symbolic",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "No Action",
+        "Scales / Grading",
+        "Sustainability Emphasis Icons",
+        "Achievements / Medals",
+        "Virtual Growth & Rewards"
+      ],
+      "image": "A_14_1",
+      "images": [
+        "A_14_1",
+        "A_14_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3665463.3678795",
+      "original_subscenarios": [
+        "Food Purchasing"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "No Action",
+        "Scales / Grading",
+        "Sustainability Emphasis Icons",
+        "Achievements / Medals",
+        "Virtual Growth & Rewards"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing",
+      "figure": "",
+      "source_citation": "Donald Degraen, Elena Werny, Marc Schubhan, Maximilian Altmeyer, and Antonio Krüger. 2024. EcoMeal: Gamified Eco-Feedback of Food Consumption using a Virtual Garden. In Companion Proceedings of the 2024 Annual Symposium on Computer-Human Interaction in Play (Tampere Finland, 2024-10-14). ACM, 43–49. doi:10.1145/3665463.3678795"
+    },
+    {
+      "id": "A_15",
+      "title": "Serenus: Alleviating Low-Battery Anxiety Through Real-time, Accurate, and User-Friendly Energy Consumption Prediction of Mobile Applications",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Personal Electronic Devices"
+      ],
+      "methods": [
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Percentage Delta"
+      ],
+      "image": "A_15_1",
+      "images": [
+        "A_15_1",
+        "A_15_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3654777.3676437",
+      "original_subscenarios": [
+        "Personal Electronic Devices"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Percentage Delta"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Personal Electronic Devices",
+      "figure": "",
+      "source_citation": "Sera Lee, Dae R. Jeong, Junyoung Choi, Jaeheon Kwak, Seoyun Son, Jean Y Song, and Insik Shin. 2024. SERENUS: Alleviating Low-Battery Anxiety Through Real-time, Accurate, and User-Friendly Energy Consumption Prediction of Mobile Applications. In Proceedings of the 37th Annual ACM Symposium on User Interface Software and Technology (Pittsburgh PA USA, 2024-10-13). ACM, 1–20. doi:10.1145/3654777.3676437"
+    },
+    {
+      "id": "A_16",
+      "title": "“Like rearranging deck chairs on the Titanic”? Feasibility, Fairness, and Ethical Concerns of a Citizen Carbon Budget for Reducing CO2 Emissions",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Green Social Feedback & Interaction",
+        "Sustainable Habit Formation"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Progress Bars",
+        "Absolute Delta",
+        "Goal / Budget"
+      ],
+      "image": "A_16_1",
+      "images": [
+        "A_16_1",
+        "A_16_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3630106.3658904",
+      "original_subscenarios": [
+        "Green Social Feedback and Interaction",
+        "Sustainable Habit Formation"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Progress Bars",
+        "Absolute Delta",
+        "Goal / Budget"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Green Social Feedback & Interaction; Sustainable Habit Formation",
+      "figure": "",
+      "source_citation": "Gisela Reyes-Cruz, Peter Craigon, Anna-Maria Piskopani, Liz Dowthwaite, Yang Lu, Justyna Lisinska, Elnaz Shafipour, Sebastian Stein, and Joel Fischer. 2024. \"Like rearranging deck chairs on the Titanic\"? Feasibility, Fairness, and Ethical Concerns of a Citizen Carbon Budget for Reducing CO2 Emissions. In The 2024 ACM Conference on Fairness Accountability and Transparency (Rio de Janeiro Brazil, 2024-06-03). ACM, 267–278. doi:10.1145/3630106.3658904"
+    },
+    {
+      "id": "A_17",
+      "title": "Household Wattch: Exploring Opportunities for Surveillance and Consent through Families’ Household Energy Use Data",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Line Chart"
+      ],
+      "image": "A_17_1",
+      "images": [
+        "A_17_1",
+        "A_17_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3673228",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Line Chart"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Stephen Snow, Awais Hameed Khan, Kaleb Day, and Ben Matthews. 2024. Household Wattch: Exploring Opportunities for Surveillance and Consent through Families’ Household Energy Use Data. 31, 4 (2024), 1–30. doi:10.1145/3673228"
+    },
+    {
+      "id": "A_18",
+      "title": "“If you don’t feel guilty, you won’t take responsibility” – Co-Speculating on Digital Technologies That Encourage Sustainable Consumption",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Purchase Decisions"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Text Comparison",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Absolute Delta",
+        "Recommended Text",
+        "Sustainability Emphasis Icons"
+      ],
+      "image": "A_18_1",
+      "images": [
+        "A_18_1",
+        "A_18_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3679318.3685374",
+      "original_subscenarios": [
+        "Purchase Decisions"
+      ],
+      "original_submethods": [
+        "Absolute Delta",
+        "Recommended Text",
+        "Sustainability Emphasis Icons"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Purchase Decisions",
+      "figure": "",
+      "source_citation": "Tong Yu, Gözel Shakeri, and Marion Koelle. 2024. \"If you don’t feel guilty, you won’t take responsibility\" - Co-Speculating on Digital Technologies That Encourage Sustainable Consumption. In Nordic Conference on Human-Computer Interaction (Uppsala Sweden, 2024-10-13). ACM, 1–18. doi:10.1145/3679318.3685374"
+    },
+    {
+      "id": "A_19",
+      "title": "Onthel: Online Delivery App to Induce Green Lifestyle Awareness",
+      "type": "Academia",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Logistics and Delivery"
+      ],
+      "methods": [
+        "Text Comparison",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Recommended Text",
+        "Score"
+      ],
+      "image": "A_19_1",
+      "images": [
+        "A_19_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3575882.3575947",
+      "original_subscenarios": [
+        "Logistics and Delivery"
+      ],
+      "original_submethods": [
+        "Recommended Text",
+        "Score"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Logistics and Delivery",
+      "figure": "",
+      "source_citation": "Andre Andre and Marcellinus Ferdinand Suciadi. 2022. Onthel: Online Delivery App to Induce Green Lifestyle Awareness. In Proceedings of the 2022 International Conference on Computer, Control, Informatics and Its Applications (Virtual Event Indonesia, 2022-11-22). ACM, 336–340. doi:10.1145/3575882.3575947"
+    },
+    {
+      "id": "A_20",
+      "title": "SolarClub: Supporting Renewable Energy Communities through an Interactive Coordination System",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Personal History",
+        "Sustainability Emphasis Icons"
+      ],
+      "image": "A_20_1",
+      "images": [
+        "A_20_1",
+        "A_20_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3613904.3642449",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Personal History",
+        "Sustainability Emphasis Icons"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Georgia Panagiotidou, Enrico Costanza, Kyrill Potapov, Sonia Nkatha, Michael J. Fell, Farhan Samanani, and Hannah Knox. 2024. SolarClub: Supporting Renewable Energy Communities through an Interactive Coordination System. In Proceedings of the CHI Conference on Human Factors in Computing Systems (Honolulu HI USA, 2024-05-11). ACM, 1–19. doi:10.1145/3613904.3642449"
+    },
+    {
+      "id": "A_21",
+      "title": "Understanding People’s Perception and Usage of Plug-in Electric Hybrids",
+      "type": "Academia",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Vehicle Usage"
+      ],
+      "methods": [
+        "Grading & Classification",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Scales / Grading",
+        "Achievements / Medals"
+      ],
+      "image": "A_21_1",
+      "images": [
+        "A_21_1",
+        "A_21_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3544548.3581301",
+      "original_subscenarios": [
+        "Vehicle Usage"
+      ],
+      "original_submethods": [
+        "Scales / Grading",
+        "Achievements / Medals"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Vehicle Usage",
+      "figure": "",
+      "source_citation": "Matthew L Lee, Scott Carter, Rumen Iliev, Nayeli Suseth Bravo, Monica P Van, Laurent Denoue, Everlyne Kimani, Alexandre L. S. Filipowicz, David A. Shamma, Kate A Sieck, Candice Hogan, and Charlene C. Wu. 2023. Understanding People’s Perception and Usage of Plug-in Electric Hybrids. In Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (Hamburg Germany, 2023-04-19). ACM, 1–21. doi:10.1145/3544548.3581301"
+    },
+    {
+      "id": "A_22",
+      "title": "Transient Internet of Things: Redesigning the Lifetime of Electronics for a More Sustainable Networked Environment",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Personal Electronic Devices"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table",
+        "Reference / Benchmark",
+        "Text Comparison"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Bar Chart",
+        "Line Chart",
+        "Peer / Ranking",
+        "Recommended Text"
+      ],
+      "image": "A_22_1",
+      "images": [
+        "A_22_1",
+        "A_22_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3604930.3605723",
+      "original_subscenarios": [
+        "Personal Electronic Devices"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Bar Chart",
+        "Line Chart",
+        "Peer / Ranking",
+        "Recommended Text"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Personal Electronic Devices",
+      "figure": "",
+      "source_citation": "Tingyu Cheng, Gregory D. Abowd, Hyunjoo Oh, and Josiah Hester. 2023. Transient Internet of Things: Redesigning the Lifetime of Electronics for a More Sustainable Networked Environment. In Proceedings of the 2nd Workshop on Sustainable Computer Systems (Boston MA USA, 2023-07-09). ACM, 1–8. doi:10.1145/3604930.3605723"
+    },
+    {
+      "id": "A_23",
+      "title": "DEMO: The Carbon Conscious Traveller",
+      "type": "Academia",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Responsible Travel"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Grading & Classification",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Bar Chart"
+      ],
+      "image": "A_23_1",
+      "images": [
+        "A_23_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3672202.3673738",
+      "original_subscenarios": [
+        "Responsible Travel"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Bar Chart"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Responsible Travel",
+      "figure": "",
+      "source_citation": "Jayden King, Ngoc Nguyen, Isac Kim, and Young Choon Lee. 2024. DEMO: The Carbon Conscious Traveller. In Proceedings of the ACM SIGCOMM 2024 Conference: Posters and Demos (Sydney NSW Australia, 2024-08-04). ACM, 116–118. doi:10.1145/3672202.3673738"
+    },
+    {
+      "id": "A_24",
+      "title": "GreenBites: A Real-Time Diet Assistant for Sustainable Health and Eco-Friendly Living",
+      "type": "Academia",
+      "scenarios": [
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Food Purchasing"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Score"
+      ],
+      "image": "A_24_1",
+      "images": [
+        "A_24_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3701716.3715180",
+      "original_subscenarios": [
+        "Food Purchasing"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Score"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing",
+      "figure": "",
+      "source_citation": "Yang Qiu, Yinan Zhang, Hongyu Zhou, Bo Huang, and Zhiqi Shen. 2025. GreenBites: A Real-Time Diet Assistant for Sustainable Health and Eco-Friendly Living. In Companion Proceedings of the ACM on Web Conference 2025 (Sydney NSW Australia, 2025-05-08). ACM, 2887–2890. doi:10.1145/3701716.3715180"
+    },
+    {
+      "id": "A_25",
+      "title": "PowerShare 2.0: A Gamified P2P Energy Trading Platform",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Composite Graphics"
+      ],
+      "image": "A_25_1",
+      "images": [
+        "A_25_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3399715.3399948",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Composite Graphics"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Sabrina Scuri and Nuno Jardim Nunes. 2020. PowerShare 2.0: A Gamified P2P Energy Trading Platform. In Proceedings of the International Conference on Advanced Visual Interfaces (Salerno Italy, 2020-09-28). ACM, 1–3. doi:10.1145/3399715.3399948"
+    },
+    {
+      "id": "A_26",
+      "title": "Envirofy your Shop: Development of a Real-time Tool to Support Eco-friendly Food Purchases Online",
+      "type": "Academia",
+      "scenarios": [
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Food Purchasing"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Sustainability Emphasis Icons"
+      ],
+      "image": "A_26_1",
+      "images": [
+        "A_26_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3411763.3451713",
+      "original_subscenarios": [
+        "Food Purchasing"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Sustainability Emphasis Icons"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing",
+      "figure": "",
+      "source_citation": "Gözel Shakeri and Claire H McCallum. 2021. Envirofy your Shop: Development of a Real-time Tool to Support Eco-friendly Food Purchases Online. In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (Yokohama Japan, 2021-05-08). ACM, 1–10. doi:10.1145/3411763.3451713"
+    },
+    {
+      "id": "A_27",
+      "title": "EnergyVis: Interactively Tracking and Exploring Energy Consumption for ML Models",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Artificial Intelligence Tools",
+        "Digital Service Usage"
+      ],
+      "methods": [
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Heatmap",
+        "Composite Graphics",
+        "Line Chart"
+      ],
+      "image": "A_27_1",
+      "images": [
+        "A_27_1",
+        "A_27_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3411763.3451780",
+      "original_subscenarios": [
+        "Artificial Intelligence Tools",
+        "Digital Service Usage"
+      ],
+      "original_submethods": [
+        "Heatmap",
+        "Composite Graphics",
+        "Line Chart"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Artificial Intelligence Tools; Digital Service Usage",
+      "figure": "",
+      "source_citation": "Omar Shaikh, Jon Saad-Falcon, Austin P Wright, Nilaksh Das, Scott Freitas, Omar Asensio, and Duen Horng Chau. 2021. EnergyVis: Interactively Tracking and Exploring Energy Consumption for ML Models. In Extended Abstracts of the 2021 CHI Conference on Human Factors in Computing Systems (Yokohama Japan, 2021-05-08). ACM, 1–7. doi:10.1145/3411763.3451780"
+    },
+    {
+      "id": "A_28",
+      "title": "Sustainable, Inclusive City-Making through Smart, Playable Environments",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Green Social Feedback & Interaction",
+        "Green Education"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Absolute Delta",
+        "Sustainability Emphasis Icons"
+      ],
+      "image": "A_28_1",
+      "images": [
+        "A_28_1",
+        "A_28_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3616961.3617803",
+      "original_subscenarios": [
+        "Green Social Feedback and Interaction",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Absolute Delta",
+        "Sustainability Emphasis Icons"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Green Social Feedback & Interaction; Green Education",
+      "figure": "",
+      "source_citation": "Ying Xuan Chian. 2023. Sustainable, inclusive city-making through smart, playable environments: developing and testing the CO2rdinates pervasive mobile game. In 26th International Academic Mindtrek Conference (Tampere Finland, 2023-10-03). ACM, 321–328. doi:10.1145/3616961.3617803"
+    },
+    {
+      "id": "A_29",
+      "title": "Another Recipe App: A Design Case with Motive Disposition Theory",
+      "type": "Academia",
+      "scenarios": [
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Food Purchasing"
+      ],
+      "methods": [
+        "Grading & Classification",
+        "Icon / Symbolic",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Scales / Grading",
+        "Sustainability Emphasis Icons",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_29_1",
+      "images": [
+        "A_29_1",
+        "A_29_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3544549.3585591",
+      "original_subscenarios": [
+        "Food Purchasing"
+      ],
+      "original_submethods": [
+        "Scales / Grading",
+        "Sustainability Emphasis Icons",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing",
+      "figure": "",
+      "source_citation": "Tong Yu. 2023. Another Recipe App: A Design Case with Motive Disposition Theory. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (Hamburg Germany, 2023-04-19). ACM, 1–7. doi:10.1145/3544549.3585591"
+    },
+    {
+      "id": "A_30",
+      "title": "GPTFootprint: Increasing Consumer Awareness of the Environmental Impacts of LLMs",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Artificial Intelligence Tools"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Icon / Symbolic",
+        "Chart / Table",
+        "Grading & Classification",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Analogy / Equivalent Value",
+        "No Action",
+        "Sustainability Emphasis Icons",
+        "Numerical vs Numerical",
+        "Composite Graphics",
+        "Scales / Grading",
+        "Score"
+      ],
+      "image": "A_30_1",
+      "images": [
+        "A_30_1",
+        "A_30_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3706599.3719708",
+      "original_subscenarios": [
+        "Artificial Intelligence Tools"
+      ],
+      "original_submethods": [
+        "Analogy / Equivalent Value",
+        "No Action",
+        "Sustainability Emphasis Icons",
+        "Numerical vs Numerical",
+        "Composite Graphics",
+        "Scales / Grading",
+        "Score"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Artificial Intelligence Tools",
+      "figure": "",
+      "source_citation": "Nora Graves, Vitus Larrieu, Yingyue Trace Zhang, Joanne Peng, Varun Nagaraj Rao, Yuhan Liu, and Andrés Monroy-Hernández. 2025. GPTFootprint: Increasing Consumer Awareness of the Environmental Impacts of LLMs. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (Yokohama Japan, 2025-04-26). ACM, 1–16. doi:10.1145/3706599.3719708"
+    },
+    {
+      "id": "A_31",
+      "title": "Exploring User Perceptions on Visual CO2 Representations as Eco-Feedback in Virtual Reality",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Green Social Feedback & Interaction"
+      ],
+      "methods": [
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value"
+      ],
+      "image": "A_31_1",
+      "images": [
+        "A_31_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3706599.3720010",
+      "original_subscenarios": [
+        "Green Social Feedback and Interaction"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Green Social Feedback & Interaction",
+      "figure": "",
+      "source_citation": "Adrian Preussner, Yu Sun, Florian Mathis, and Johannes Schöning. 2025. Exploring User Perceptions on Visual CO2 Representations as Eco-Feedback in Virtual Reality. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA ’25). Association for Computing Machinery, New York, NY, USA, Article 255, 8 pages. doi:10.1145/3706599.3720010"
+    },
+    {
+      "id": "A_32",
+      "title": "SATURNE: Food at the Heart of a Sustainable and Human Network",
+      "type": "Academia",
+      "scenarios": [
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Food Purchasing"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table",
+        "Grading & Classification"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Transformed % Bar",
+        "Composite Graphics",
+        "Scales / Grading"
+      ],
+      "image": "A_32_1",
+      "images": [
+        "A_32_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3491101.3514492",
+      "original_subscenarios": [
+        "Food Purchasing"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Transformed % Bar",
+        "Composite Graphics",
+        "Scales / Grading"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing",
+      "figure": "",
+      "source_citation": "Stephanie Caron-Moreau, Rosalie B Tremblay, Romain Heuberger, and Olivier Martel Savoie. 2022. SATURNE: food at the heart of a sustainable and human network. In CHI Conference on Human Factors in Computing Systems Extended Abstracts (New Orleans LA USA, 2022-04-27). ACM, 1–5. doi:10.1145/3491101.3514492"
+    },
+    {
+      "id": "A_33",
+      "title": "Blooming: Changing Laundry Habits and Opening Windows to Brighter Cities",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Smart Home Devices"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Absolute Delta",
+        "Score",
+        "Increase / Decrease Icons"
+      ],
+      "image": "A_33_1",
+      "images": [
+        "A_33_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3544549.3583846",
+      "original_subscenarios": [
+        "Smart Home Devices"
+      ],
+      "original_submethods": [
+        "Absolute Delta",
+        "Score",
+        "Increase / Decrease Icons"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Smart Home Devices",
+      "figure": "",
+      "source_citation": "Yun Ma, Ya-Chi Chang, Zhuoyi Cui, Dylan Rothwell, and Anna Bykoriz. 2023. Blooming: Changing Laundry Habits and Opening Windows to Brighter Cities. In Extended Abstracts of the 2023 CHI Conference on Human Factors in Computing Systems (Hamburg Germany, 2023-04-19). ACM, 1–8. doi:10.1145/3544549.3583846"
+    },
+    {
+      "id": "A_34",
+      "title": "EcoFashion Scanner: Bridging the Gen Z and Millennial ’Green Gap’",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Purchase Decisions"
+      ],
+      "methods": [
+        "Icon / Symbolic",
+        "Numerical Comparison",
+        "Grading & Classification"
+      ],
+      "submethods": [
+        "Sustainability Emphasis Icons",
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Analogy / Equivalent Value",
+        "Scales / Grading"
+      ],
+      "image": "A_34_1",
+      "images": [
+        "A_34_1",
+        "A_34_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3613905.3647970",
+      "original_subscenarios": [
+        "Purchase Decisions"
+      ],
+      "original_submethods": [
+        "Sustainability Emphasis Icons",
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Analogy / Equivalent Value",
+        "Scales / Grading"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Purchase Decisions",
+      "figure": "",
+      "source_citation": "Bokyung Um, Catarina Santos, Sharihan Abdirahman, Aoife Power, and Zainab Uddin. 2024. EcoFashion Scanner: Bridging the Gen Z and Millennial ’Green Gap’ by Facilitating Sustainable Fashion Consumption Behaviours. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (Honolulu HI USA, 2024-05-11). ACM, 1–6. doi:10.1145/3613905.3647970"
+    },
+    {
+      "id": "A_35",
+      "title": "EcoWat: An Electricity Management App to Illuminate Community-Driven Sustainability in Student Accommodations",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Reference / Benchmark",
+        "Chart / Table",
+        "Icon / Symbolic",
+        "Grading & Classification",
+        "Numerical Comparison",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Goal / Budget",
+        "Stacked Bar Chart",
+        "Composite Graphics",
+        "Sustainability Emphasis Icons",
+        "Scales / Grading",
+        "Numerical vs Numerical",
+        "Personal History",
+        "Progress Bars",
+        "Absolute Delta"
+      ],
+      "image": "A_35_1",
+      "images": [
+        "A_35_1",
+        "A_35_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3613905.3647971",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Goal / Budget",
+        "Stacked Bar Chart",
+        "Composite Graphics",
+        "Sustainability Emphasis Icons",
+        "Scales / Grading",
+        "Numerical vs Numerical",
+        "Personal History",
+        "Progress Bars",
+        "Absolute Delta"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Julia Wernersbach, Douglas Ng, Sophie Ka Ling Lau, Wenqi Zhu, and Ziyue Lai. 2024. EcoWatt: An Electricity Management App to Illuminate Community-Driven Sustainability in Student Accommodations. In Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (Honolulu HI USA, 2024-05-11). ACM, 1–6. doi:10.1145/3613905.3647971"
+    },
+    {
+      "id": "A_36",
+      "title": "Promoting Green Fashion Consumption in Recommender Systems",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Purchase Decisions"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Sustainability Emphasis Icons"
+      ],
+      "image": "A_36_1",
+      "images": [
+        "A_36_1",
+        "A_36_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3631700.3664922",
+      "original_subscenarios": [
+        "Purchase Decisions"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Sustainability Emphasis Icons"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Purchase Decisions",
+      "figure": "",
+      "source_citation": "Angelo Geninatti Cossatin. 2024. Promoting Green Fashion Consumption in Recommender Systems. In Adjunct Proceedings of the 32nd ACM Conference on User Modeling, Adaptation and Personalization (Cagliari Italy, 2024-06-27). ACM, 50–54. doi:10.1145/3631700.3664922"
+    },
+    {
+      "id": "A_37",
+      "title": "Digibyte: Promoting Awareness and Habit Change for Sustainable Digital File Decluttering",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Education"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Chart / Table",
+        "Icon / Symbolic",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Bar Chart",
+        "Absolute Delta",
+        "Sustainability Emphasis Icons",
+        "Progress Bars"
+      ],
+      "image": "A_37_1",
+      "images": [
+        "A_37_1",
+        "A_37_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3706599.3720297",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Bar Chart",
+        "Absolute Delta",
+        "Sustainability Emphasis Icons",
+        "Progress Bars"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Education",
+      "figure": "",
+      "source_citation": "Victoria Woo, Shuai Yuan, Melanie Ng, Jun Woo Bak, and Duanyuan Xu. 2025. Digibyte: Promoting Awareness and Habit Change for Sustainable Digital File Decluttering. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (Yokohama Japan, 2025-04-26). ACM, 1–8. doi:10.1145/3706599.3720297"
+    },
+    {
+      "id": "A_38",
+      "title": "Purple: Combining Individual and Collective Action to Increase Online Sustainability",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT",
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Personal Electronic Devices",
+        "Artificial Intelligence Tools",
+        "Digital Service Usage",
+        "Green Education",
+        "Green Social Feedback & Interaction"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Chart / Table",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Goal / Budget",
+        "Composite Graphics",
+        "Personal History",
+        "Absolute Delta",
+        "Achievements / Medals",
+        "Progress Bars",
+        "Analogy / Equivalent Value",
+        "Peer / Ranking"
+      ],
+      "image": "A_38_1",
+      "images": [
+        "A_38_1",
+        "A_38_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3706599.3720304",
+      "original_subscenarios": [
+        "Personal Electronic Devices",
+        "Artificial Intelligence Tools",
+        "Digital Service Usage",
+        "Green Education",
+        "Green Social Feedback and Interaction"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Goal/Budget",
+        "Composite graphics",
+        "Personal History",
+        "Absolute Delta",
+        "Achievements / Medals",
+        "Progress Bars",
+        "Analogy / Equivalent Value",
+        "Peer / Ranking"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Personal Electronic Devices; Artificial Intelligence Tools; Digital Service Usage; Green Education; Green Social Feedback & Interaction",
+      "figure": "",
+      "source_citation": "Jane Walters, Atira Nair, Paolo Mastronardi, Alyssa Li, and Xue Bai. 2025. Purple: Combining Individual and Collective Action to Increase Online Sustainability. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (Yokohama Japan, 2025-04-26). ACM, 1–6. doi:10.1145/3706599.3720304"
+    },
+    {
+      "id": "A_39",
+      "title": "RePlate: A User-Driven Solution for Empowering Sustainable Food Consumption in University Dining",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Grading & Classification",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Composite Graphics",
+        "Line Chart",
+        "Scales / Grading",
+        "Sustainability Emphasis Icons",
+        "Bar Chart"
+      ],
+      "image": "A_39_1",
+      "images": [
+        "A_39_1",
+        "A_39_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3706599.3720309",
+      "original_subscenarios": [
+        "Sustainable Habit Formation"
+      ],
+      "original_submethods": [
+        "Composite Graphics",
+        "Line Chart",
+        "Scales / Grading",
+        "Sustainability Emphasis Icons",
+        "Bar Chart"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation",
+      "figure": "",
+      "source_citation": "Yaxuan Xiao, Kelly Truong, Jingjing Huang, and Faustine X. Wang. 2025. RePlate: A User-Driven Solution for Empowering Sustainable Food Consumption in University Dining. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (Yokohama Japan, 2025-04-26). ACM, 1–5. doi:10.1145/3706599.3720309"
+    },
+    {
+      "id": "A_40",
+      "title": "Promoting Eco-Friendly Behavior through Virtual Reality – Implementation and Evaluation of Immersive Feedback Conditions of a Virtual CO2 Calculator",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation"
+      ],
+      "methods": [
+        "Gamified Feedback",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Progress Bars",
+        "Composite Graphics"
+      ],
+      "image": "A_40_1",
+      "images": [
+        "A_40_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3613904.3642957",
+      "original_subscenarios": [
+        "Sustainable Habit Formation"
+      ],
+      "original_submethods": [
+        "Progress Bars",
+        "Composite Graphics"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation",
+      "figure": "",
+      "source_citation": "Carolin Wienrich, Stephanie Vogt, Nina Döllinger, and David Obremski. 2024. Promoting Eco-Friendly Behaviour through Virtual Reality - Implementation and Evaluation of Immersive Feedback Conditions of a Virtual CO2 Calculator. In Proceedings of the CHI Conference on Human Factors in Computing Systems (Honolulu HI USA, 2024-05-11). ACM, 1–9. doi:10.1145/3613904.3642957"
+    },
+    {
+      "id": "A_41",
+      "title": "Human Factors Evaluation of Energy Visualization Dashboards",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems",
+        "Water Resources & Wastewater Management"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Pie Chart",
+        "Composite Graphics",
+        "Table + Number",
+        "Line Chart",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_41_1",
+      "images": [
+        "A_41_1",
+        "A_41_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1177/10648046211028693",
+      "original_subscenarios": [
+        "Household Energy Systems",
+        "Water Resources Management and Wastewater Treatment"
+      ],
+      "original_submethods": [
+        "Pie Chart",
+        "Composite Graphics",
+        "Table + Number",
+        "Line Chart",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems; Water Resources & Wastewater Management",
+      "figure": "",
+      "source_citation": "Ashish D. Nimbarte, Nathaniel Smith, and Bhaskaran Gopalakrishnan. 2024. Human Factors Evaluation of Energy Visualization Dashboards. Ergonomics in Design 32, 1 (2024), 39–47. doi:10.1177/10648046211028693"
+    },
+    {
+      "id": "A_42",
+      "title": "AI-driven Explainable Digital Twin with Adaptive Decision Support for Multi-Zone Smart Buildings",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Percentage Delta",
+        "Increase / Decrease Icons"
+      ],
+      "image": "A_42_1",
+      "images": [
+        "A_42_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1007/s43621-026-03394-4",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Percentage Delta",
+        "Increase / Decrease Icons"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "J. Muthu Bharath, Shivkanya Balamurugan, Nora Sara Thomas, and O. V. Gnana Swathika. 2026. AI-driven explainable digital twin with adaptive decision support for multi-zone smart buildings. Discover Sustainability 7 (2026). Article 1046. doi:10.1007/s43621-026-03394-4"
+    },
+    {
+      "id": "A_43",
+      "title": "LLEC Energy Dashboard Suite: User Engagement for Energy-Efficient Behavior using Dashboards and Gamification",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison",
+        "Grading & Classification",
+        "Icon / Symbolic",
+        "Reference / Benchmark",
+        "Gamified Feedback",
+        "Text Comparison"
+      ],
+      "submethods": [
+        "Pie Chart",
+        "Composite Graphics",
+        "Line Chart",
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Sustainability Emphasis Icons",
+        "Peer / Ranking",
+        "Virtual Growth & Rewards",
+        "Percentage Delta",
+        "Recommended Text"
+      ],
+      "image": "A_43_1",
+      "images": [
+        "A_43_1",
+        "A_43_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.52202/069564-0291",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Pie Chart",
+        "Composite Graphics",
+        "Line Chart",
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Sustainability Emphasis Icons",
+        "Peer / Ranking",
+        "Virtual Growth & Rewards",
+        "Percentage Delta",
+        "Recommended Text"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Eziama Ubachukwu, Jana Pick, Lea Riebesel, Paul Lieberenz, Philipp Althaus, Dirk Müller, and André Xhonneux. 2023. LLEC Energy Dashboard Suite: User Engagement for Energy-Efficient Behavior Using Dashboards and Gamification. In Proceedings of the 36th International Conference on Efficiency, Cost, Optimization, Simulation and Environmental Impact of Energy Systems (ECOS 2023). 3241–3252. doi:10.52202/069564-0291"
+    },
+    {
+      "id": "A_44",
+      "title": "Sustainable Behavior in Motion: Designing Mobile Eco-Driving Feedback Information Systems",
+      "type": "Academia",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Vehicle Usage"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Gamified Feedback",
+        "Reference / Benchmark",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Peer / Ranking",
+        "Bar Chart"
+      ],
+      "image": "A_44_1",
+      "images": [
+        "A_44_1",
+        "A_44_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1007/s10799-021-00352-6",
+      "original_subscenarios": [
+        "Vehicle Usage"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Score",
+        "Peer / Ranking",
+        "Bar Chart"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Vehicle Usage",
+      "figure": "",
+      "source_citation": "Henner Gimpel, Sebastian Heger, and Moritz Wöhl. 2022. Sustainable behavior in motion: designing mobile eco-driving feedback information systems. Information Technology and Management 23, 4 (2022), 299–314. doi:10.1007/s10799-021-00352-6"
+    },
+    {
+      "id": "A_45",
+      "title": "Digital Nudges to Stimulate Healthy and Pro-Environmental Food Choices in E-Groceries",
+      "type": "Academia",
+      "scenarios": [
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Food Purchasing"
+      ],
+      "methods": [
+        "Grading & Classification",
+        "Reference / Benchmark",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Scales / Grading",
+        "Typical / Average",
+        "Percentage Delta"
+      ],
+      "image": "A_45_1",
+      "images": [
+        "A_45_1",
+        "A_45_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1016/j.appet.2022.105971",
+      "original_subscenarios": [
+        "Food Choose & Purchasing"
+      ],
+      "original_submethods": [
+        "Scales / Grading",
+        "Typical / Average",
+        "Percentage Delta"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing",
+      "figure": "",
+      "source_citation": "Michiel De Bauw, Lucia Segovia De La Revilla, Veerle Poppe, Christophe Matthys, and Liesbet Vranken. 2022. Digital nudges to stimulate healthy and pro-environmental food choices in E-groceries. Appetite 172 (2022), 105971. doi:10.1016/j.appet.2022.105971"
+    },
+    {
+      "id": "A_46",
+      "title": "Assessing the Correlation between Citizen Science and Carbon Footprint: Introduction of COMPAIR’s CO2 Calculator",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green & Carbon Neutrality Actions"
+      ],
+      "methods": [
+        "Reference / Benchmark",
+        "Chart / Table",
+        "Text Comparison",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Typical / Average",
+        "Stacked Bar Chart",
+        "Donut Chart",
+        "Recommended Text",
+        "Percentage Delta",
+        "Line Chart",
+        "Numerical vs Numerical",
+        "Trend Forecast"
+      ],
+      "image": "A_46_1",
+      "images": [
+        "A_46_1",
+        "A_46_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.3390/en16176228",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green and Carbon Neutrality Actions"
+      ],
+      "original_submethods": [
+        "Typical / Average",
+        "Stacked Bar Chart",
+        "Donut Chart",
+        "Recommended Text",
+        "Percentage Delta",
+        "Line Chart",
+        "Numerical vs Numerical",
+        "Trend Forecast"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green & Carbon Neutrality Actions",
+      "figure": "",
+      "source_citation": "Athanasia Orfanou, Stergios Vakalis, Christos Karelis, Charalampos Alexopoulos, Yannis Charalabidis, and Demetris Francis Lekkas. 2023. Assessing the Correlation between Citizen Science and Carbon Footprint: Introduction of COMPAIR’s CO2 Calculator. Energies 16, 17 (2023), 6228. doi:10.3390/en16176228"
+    },
+    {
+      "id": "A_47",
+      "title": "Visualizing Carbon in 3D Repo: From BIM to ZERO",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Grading & Classification",
+        "Reference / Benchmark",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Absolute Delta",
+        "Scales / Grading",
+        "Typical / Average",
+        "Bar Chart",
+        "Pie Chart",
+        "Composite Graphics",
+        "Table + Number",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_47_1",
+      "images": [
+        "A_47_1",
+        "A_47_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3611314.3616861",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Absolute Delta",
+        "Scales / Grading",
+        "Typical / Average",
+        "Bar Chart",
+        "Pie Chart",
+        "Composite Graphics",
+        "Table + Number",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Mia Dibe, James Bowles, Matthew Osment, Charence Wong, and Jozef Doboš. 2023. Visualizing Carbon in 3D Repo: From BIM to ZERO. In Proceedings of the 28th International ACM Conference on 3D Web Technology. Association for Computing Machinery, 38:1–38:2. doi:10.1145/3611314.3616861"
+    },
+    {
+      "id": "A_48",
+      "title": "Interface Design for Residential Energy Feedback, in the Indian Context",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison",
+        "Grading & Classification",
+        "Reference / Benchmark",
+        "Text Comparison"
+      ],
+      "submethods": [
+        "Bar Chart",
+        "Line Chart",
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Typical / Average",
+        "Recommended Text",
+        "Composite Graphics",
+        "Donut Chart"
+      ],
+      "image": "A_48_1",
+      "images": [
+        "A_48_1",
+        "A_48_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1186/s42162-023-00267-2",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Bar Chart",
+        "Line Chart",
+        "Numerical vs Numerical",
+        "Scales / Grading",
+        "Typical / Average",
+        "Recommended Text",
+        "Composite Graphics",
+        "Donut Chart"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Madhur Garg, Vishal Garg, Priyanka Srivastava, and Rishika Agarwal. 2023. Interface design for residential energy feedback, in the Indian context. Energy Informatics 6, 1 (2023). Article 12. doi:10.1186/s42162-023-00267-2"
+    },
+    {
+      "id": "A_49",
+      "title": "Predictive Analysis of Vehicle CO2-Emissions",
+      "type": "Academia",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Vehicle Usage"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Line Chart",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_49_1",
+      "images": [
+        "A_49_1",
+        "A_49_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1109/ICPCSN62568.2024.00144",
+      "original_subscenarios": [
+        "Vehicle Usage"
+      ],
+      "original_submethods": [
+        "Line Chart",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Vehicle Usage",
+      "figure": "",
+      "source_citation": "Samanyu B. Rao, Nivedita Anand, and S. Kanmani. 2024. Predictive Analysis of Vehicle CO2-Emissions. In 2024 4th International Conference on Pervasive Computing and Social Networking (ICPCSN). 855–859. doi:10.1109/ICPCSN62568.2024.00144"
+    },
+    {
+      "id": "A_50",
+      "title": "A Low-Cost Energy Monitoring System with Universal Compatibility and Real-Time Visualization for Enhanced Accessibility and Power Savings",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Line Chart",
+        "Numerical vs Numerical",
+        "Composite Graphics"
+      ],
+      "image": "A_50_1",
+      "images": [
+        "A_50_1",
+        "A_50_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.3390/su16104137",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Line Chart",
+        "Numerical vs Numerical",
+        "Composite Graphics"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Hashim Raza Khan, Majida Kazmi, Lubaba, Muhammad Hashir Bin Khalid, Urooj Alam, Kamran Arshad, Khaled Assaleh, and Saad Ahmed Qazi. 2024. A Low-Cost Energy Monitoring System with Universal Compatibility and Real-Time Visualization for Enhanced Accessibility and Power Savings. Sustainability 16, 10 (2024), 4137. doi:10.3390/su16104137"
+    },
+    {
+      "id": "A_51",
+      "title": "Design and Experimental Results of an AIoT-Enabled, Energy-Efficient Ceiling Fan System",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Smart Home Devices"
+      ],
+      "methods": [
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Absolute Delta"
+      ],
+      "image": "A_51_1",
+      "images": [
+        "A_51_1",
+        "A_51_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.3390/su16125047",
+      "original_subscenarios": [
+        "Smart Home Devices"
+      ],
+      "original_submethods": [
+        "Absolute Delta"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Smart Home Devices",
+      "figure": "",
+      "source_citation": "Hashim Raza Khan, Wajahat Ahmed, Wasiq Masud, Urooj Alam, Kamran Arshad, Khaled Assaleh, and Saad Ahmed Qazi. 2024. Design and Experimental Results of an AIoT-Enabled, Energy-Efficient Ceiling Fan System. Sustainability 16, 12 (2024), 5047. doi:10.3390/su16125047"
+    },
+    {
+      "id": "A_52",
+      "title": "Towards Smart Campus of Universiti Malaya: Realization of Real-Time Building Energy Monitoring System (BEMS)",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Line Chart",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_52_1",
+      "images": [
+        "A_52_1",
+        "A_52_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1088/1755-1315/1560/1/012065",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Line Chart",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Norridah Amin, Oon Erixno, Rushdina Roslan, Nasrudin Abd Rahim, Tiong Sieh Kiong, and Mohamad Fathi Mohamad Elias. 2025. Towards Smart Campus of Universiti Malaya: Realization of Real-time Building Energy Monitoring System (BEMS). IOP Conference Series: Earth and Environmental Science 1560, 1 (2025), 012065. doi:10.1088/1755-1315/1560/1/012065"
+    },
+    {
+      "id": "A_53",
+      "title": "EFI-DSS: A Machine Learning-Based Decision Support System for Energy Efficiency Investments in Buildings",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Grading & Classification",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Pie Chart",
+        "Line Chart",
+        "Scales / Grading",
+        "Absolute Delta",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_53_1",
+      "images": [
+        "A_53_1",
+        "A_53_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.23919/SpliTech65624.2025.11091625",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Pie Chart",
+        "Line Chart",
+        "Scales / Grading",
+        "Absolute Delta",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Vasilis Michalakopoulos, Sotiris Pelekis, Georgios Kormpakis, Vagelis Karakolis, Spiros Mouzakitis, and Dimitris Askounis. 2025. EFI-DSS: A Machine Learning-based Decision Support System for Energy Efficiency Investments in Buildings. In 2025 10th International Conference on Smart and Sustainable Technologies (SpliTech). 1–7. doi:10.23919/SpliTech65624.2025.11091625"
+    },
+    {
+      "id": "A_54",
+      "title": "The Spillover Effects of Real-Time Social Comparison Information on Water and Energy Use: Experimental Evidence Using In-Home Displays",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Icon / Symbolic",
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Sustainability Emphasis Icons",
+        "Numerical vs Numerical",
+        "Typical / Average",
+        "Bar Chart"
+      ],
+      "image": "A_54_1",
+      "images": [
+        "A_54_1",
+        "A_54_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1007/s10640-025-00992-0",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Sustainability Emphasis Icons",
+        "Numerical vs Numerical",
+        "Typical / Average",
+        "Bar Chart"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Andrius Kažukauskas, Fissha Asmare, Thomas Broberg, and J¯urat˙e Jarait˙e. 2025. The Spillover Effects of Real-Time Social Comparison Information on Water and Energy Use: Experimental Evidence Using In-Home Displays. Environmental and Resource Economics 88 (2025), 1879–1904. doi:10.1007/s10640-025-00992-0"
+    },
+    {
+      "id": "A_55",
+      "title": "EcoRoute: A Cyber-Secure Carbon-Aware Routing Framework Using Multi-Objective Graph Optimization for VANETs",
+      "type": "Academia",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Commuting / Short-distance Travel"
+      ],
+      "methods": [
+        "Reference / Benchmark",
+        "Numerical Comparison",
+        "Chart / Table",
+        "Icon / Symbolic"
+      ],
+      "submethods": [
+        "Typical / Average",
+        "Absolute Delta",
+        "Line Chart",
+        "Increase / Decrease Icons",
+        "Bar Chart",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_55_1",
+      "images": [
+        "A_55_1",
+        "A_55_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1109/CCGE67142.2026.11581637",
+      "original_subscenarios": [
+        "Commuting/Short-distance Travel"
+      ],
+      "original_submethods": [
+        "Typical / Average",
+        "Absolute Delta",
+        "Line Chart",
+        "Increase / Decrease Icons",
+        "Bar Chart",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Commuting / Short-distance Travel",
+      "figure": "",
+      "source_citation": "Snehal Rathi, Abhishek Eknath Jadhav, Prem Amit Ashtekar, Hrishikesh Sanjay Adep, and Abhay Raju Gunjal. 2026. EcoRoute: A Cyber-Secure Carbon-Aware Routing Framework Using Multi-Objective Graph Optimization for VANETs. In 2026 2nd International Conference on Computing, Communication and Green Engineering (CCGE). 1–6. doi:10.1109/CCGE67142.2026.11581637"
+    },
+    {
+      "id": "A_56",
+      "title": "Learning to Nudge: Affect-Aware Model-Free Reinforcement Learning for Energy Conservation",
+      "type": "Academia",
+      "scenarios": [
+        "Home & Building"
+      ],
+      "subscenarios": [
+        "Household Energy Systems"
+      ],
+      "methods": [
+        "Chart / Table"
+      ],
+      "submethods": [
+        "Pie Chart",
+        "Donut Chart",
+        "Bar Chart"
+      ],
+      "image": "A_56_1",
+      "images": [
+        "A_56_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3816780",
+      "original_subscenarios": [
+        "Household Energy Systems"
+      ],
+      "original_submethods": [
+        "Pie Chart",
+        "Donut Chart",
+        "Bar Chart"
+      ],
+      "scenario": "Home & Building",
+      "subscenario": "Household Energy Systems",
+      "figure": "",
+      "source_citation": "Mina Alipour. 2026. Learning to Nudge: Affect-Aware Model-Free Reinforcement Learning for Energy Conservation. Proceedings of the ACM on Human-Computer Interaction 10, 4 (2026), 1–28. Article EICS028. doi:10.1145/3816780"
+    },
+    {
+      "id": "A_57",
+      "title": "Graphical Interface Model for Empowering Web Application Users to Make Sustainable Choices: A Technology Acceptance Study",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Digital Service Usage"
+      ],
+      "methods": [
+        "Text Comparison",
+        "Numerical Comparison",
+        "Chart / Table",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Recommended Text",
+        "Absolute Delta",
+        "Line Chart",
+        "Personal History",
+        "Analogy / Equivalent Value",
+        "Count / Frequency"
+      ],
+      "image": "A_57_1",
+      "images": [
+        "A_57_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3786148.3788639",
+      "original_subscenarios": [
+        "Digital Service Usage"
+      ],
+      "original_submethods": [
+        "Recommended Text",
+        "Absolute Delta",
+        "Line Chart",
+        "Personal History",
+        "Analogy / Equivalent Value",
+        "Count / Frequency"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Digital Service Usage",
+      "figure": "",
+      "source_citation": "Giuliano M. Bonazzi, Jacopo Ammendola, and Eduardo Martins Guerra. 2026. Graphical Interface Model for Empowering Web Application Users to Make Sustainable Choices: A Technology Acceptance Study. In 2026 IEEE/ACM 10th International Workshop on Green and Sustainable Software (GREENS). Association for Computing Machinery, 158–165. doi:10.1145/3786148.3788639"
+    },
+    {
+      "id": "A_58",
+      "title": "Understanding Cultural Values in Designing Persuasive Games for Pro-Environmental Behavior",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Education"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Text Comparison",
+        "Reference / Benchmark",
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Pie Chart",
+        "Recommended Text",
+        "Peer / Ranking",
+        "Percentage Delta",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_58_1",
+      "images": [
+        "A_58_1",
+        "A_58_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3726986.3727049",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Green Education"
+      ],
+      "original_submethods": [
+        "Pie Chart",
+        "Recommended Text",
+        "Peer / Ranking",
+        "Percentage Delta",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Green Education",
+      "figure": "",
+      "source_citation": "Pattiya Mahapasuthanon and Vivian Genaro Motti. 2024. Understanding Cultural Values in Designing Persuasive Games for Pro-Environmental Behavior. In Proceedings of the 36th Australasian Conference on Human-Computer Interaction. Association for Computing Machinery, 727–735. doi:10.1145/3726986.3727049"
+    },
+    {
+      "id": "A_59",
+      "title": "Self-monitoring and Feedback: Promoting Sustainable Transportation in On-Demand Mobility Services",
+      "type": "Academia",
+      "scenarios": [
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Commuting / Short-distance Travel"
+      ],
+      "methods": [
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Absolute Delta",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_59_1",
+      "images": [
+        "A_59_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3771882.3771904",
+      "original_subscenarios": [
+        "Commuting/Short-distance Travel"
+      ],
+      "original_submethods": [
+        "Absolute Delta",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Transportation",
+      "subscenario": "Commuting / Short-distance Travel",
+      "figure": "",
+      "source_citation": "Fereshteh Hosseini, Setareh Zafari, and Manfred Tscheligi. 2025. Self-monitoring and Feedback: Promoting Sustainable Transportation in On- Demand Mobility Services. In Proceedings of the 24th International Conference on Mobile and Ubiquitous Multimedia. Association for Computing Machinery, 137–145. doi:10.1145/3771882.3771904"
+    },
+    {
+      "id": "A_60",
+      "title": "EcoChat Probe: How Energy Feedback Shapes End Users’ Interpretations of Everyday Generative AI Use",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Artificial Intelligence Tools"
+      ],
+      "methods": [
+        "Numerical Comparison",
+        "Reference / Benchmark",
+        "Chart / Table",
+        "Gamified Feedback"
+      ],
+      "submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Goal / Budget",
+        "Bar Chart",
+        "Progress Bars",
+        "Peer / Ranking",
+        "Composite Graphics"
+      ],
+      "image": "A_60_1",
+      "images": [
+        "A_60_1",
+        "A_60_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3805689.3812368",
+      "original_subscenarios": [
+        "Artificial Intelligence Tools"
+      ],
+      "original_submethods": [
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value",
+        "Goal/Budget",
+        "Bar Chart",
+        "Progress Bars",
+        "Peer / Ranking",
+        "Composite Graphics"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Artificial Intelligence Tools",
+      "figure": "",
+      "source_citation": "Yuheng Ren, Luiz Augusto Morais, Filipe Calegario, Frédérique Krupa, Francisco Paulo Magalhães Simões, Nivan Ferreira, and Georgia Panagiotidou. 2026. EcoChat Probe: How Energy Feedback Shapes End Users’ Interpretations of Everyday Generative AI Use. In ACM FAccT 2026 – Proceedings of the 9th Annual ACM Conference on Fairness, Accountability, and Transparency. Association for Computing Machinery, 5194–5218. doi:10.1145/3805689.3812368"
+    },
+    {
+      "id": "A_61",
+      "title": "Reducing Food Waste Through Pre-Decision Interaction Design",
+      "type": "Academia",
+      "scenarios": [
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Food Purchasing"
+      ],
+      "methods": [
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Absolute Delta"
+      ],
+      "image": "A_61_1",
+      "images": [
+        "A_61_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3772363.3799170",
+      "original_subscenarios": [
+        "Food Choose & Purchasing"
+      ],
+      "original_submethods": [
+        "Absolute Delta"
+      ],
+      "scenario": "Food & Waste",
+      "subscenario": "Food Purchasing",
+      "figure": "",
+      "source_citation": "Talayeh Dehghani Ghotbabadi. 2026. Reducing Food Waste Through Pre-Decision Interaction Design. In Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems. Association for Computing Machinery, 1–4. doi:10.1145/3772363.3799170"
+    },
+    {
+      "id": "A_62",
+      "title": "Living Sustainability: In-Context Interactive Environmental Impact Communication",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT",
+        "Consumption & Sustainable Lifestyle",
+        "Transportation"
+      ],
+      "subscenarios": [
+        "Digital Service Usage",
+        "Purchase Decisions",
+        "Logistics and Delivery"
+      ],
+      "methods": [
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Percentage Delta",
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value"
+      ],
+      "image": "A_62_1",
+      "images": [
+        "A_62_1",
+        "A_62_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3749488",
+      "original_subscenarios": [
+        "Digital Service Usage",
+        "Purchase Decisions",
+        "Logistics and Delivery"
+      ],
+      "original_submethods": [
+        "Percentage Delta",
+        "Numerical vs Numerical",
+        "Analogy / Equivalent Value"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Digital Service Usage; Purchase Decisions; Logistics and Delivery",
+      "figure": "",
+      "source_citation": "Zhihan Zhang, Puvarin Thavikulwat, Alexander Le Metzger, Yuxuan Mei, Felix Hähnlein, Zachary Englhardt, Gregory D. Abowd, Shwetak Patel, Adriana Schulz, Tingyu Cheng, and Vikram Iyer. 2025. Living Sustainability: In-Context Interactive Environmental Impact Communication. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies 9, 3 (2025), 1–42. Article 153. doi:10.1145/3749488"
+    },
+    {
+      "id": "A_63",
+      "title": "Exploring The Role of an Eco-Feedback System in Shaping Household Consumption to Encourage Sustainable Practices in Everyday Life",
+      "type": "Academia",
+      "scenarios": [
+        "Consumption & Sustainable Lifestyle",
+        "Home & Building",
+        "Food & Waste"
+      ],
+      "subscenarios": [
+        "Sustainable Habit Formation",
+        "Household Energy Systems",
+        "Food Purchasing"
+      ],
+      "methods": [
+        "Chart / Table",
+        "Numerical Comparison",
+        "Text Comparison",
+        "Reference / Benchmark"
+      ],
+      "submethods": [
+        "Line Chart",
+        "Stacked Bar Chart",
+        "Bar Chart",
+        "Donut Chart",
+        "Analogy / Equivalent Value",
+        "Recommended Text",
+        "Numerical vs Numerical",
+        "Personal History",
+        "Goal / Budget"
+      ],
+      "image": "A_63_1",
+      "images": [
+        "A_63_1",
+        "A_63_2"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3801743",
+      "original_subscenarios": [
+        "Sustainable Habit Formation",
+        "Household Energy Systems",
+        "Food Choose & Purchasing"
+      ],
+      "original_submethods": [
+        "Line Chart",
+        "Stacked Bar Chart",
+        "Bar Chart",
+        "Donut Chart",
+        "Analogy / Equivalent Value",
+        "Recommended Text",
+        "Numerical vs Numerical",
+        "Personal History",
+        "Goal/Budget"
+      ],
+      "scenario": "Consumption & Sustainable Lifestyle",
+      "subscenario": "Sustainable Habit Formation; Household Energy Systems; Food Purchasing",
+      "figure": "",
+      "source_citation": "Dushani Perera, Ayantha Randika, Julie Gwilliam, and Nervo Verdezoto. 2026. Exploring the Role of an Eco-Feedback System in Shaping Household Consumption to Encourage Sustainable Practices in Everyday Life. ACM Journal on Computing and Sustainable Societies 4, 2 (2026), 1–36. Article 7. doi:10.1145/3801743"
+    },
+    {
+      "id": "A_64",
+      "title": "The HCI GenAI CO2ST Calculator: Calculating and Offsetting the Carbon Footprint of Generative AI Use in Human-Computer Interaction Research",
+      "type": "Academia",
+      "scenarios": [
+        "Computing & ICT"
+      ],
+      "subscenarios": [
+        "Artificial Intelligence Tools"
+      ],
+      "methods": [
+        "Numerical Comparison"
+      ],
+      "submethods": [
+        "Analogy / Equivalent Value",
+        "Numerical vs Numerical"
+      ],
+      "image": "A_64_1",
+      "images": [
+        "A_64_1"
+      ],
+      "desc": "",
+      "source_url": "https://doi.org/10.1145/3737609.3747110",
+      "original_subscenarios": [
+        "Artificial Intelligence Tools"
+      ],
+      "original_submethods": [
+        "Analogy / Equivalent Value",
+        "Numerical vs Numerical"
+      ],
+      "scenario": "Computing & ICT",
+      "subscenario": "Artificial Intelligence Tools",
+      "figure": "",
+      "source_citation": "Nanna Inie, Jeanette Falk, and Raghavendra Selvan. 2025. The HCI GenAI CO2ST Calculator: Calculating and Offsetting the Carbon Footprint of Generative AI Use in Human-Computer Interaction Research. In Adjunct Proceedings of the Sixth Decennial Aarhus Conference: Computing X Crisis. Association for Computing Machinery, 1–5. Article 8. doi:10.1145/3737609.3747110"
+    }
+  ]
+}

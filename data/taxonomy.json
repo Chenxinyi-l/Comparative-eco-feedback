@@ -1,0 +1,358 @@
+{
+  "description": "Two-level Scenario × Comparison Method codebook from Appendix Tables 2 and 3. This is not the Design Space.",
+  "scenarios": [
+    "Computing & ICT",
+    "Transportation",
+    "Home & Building",
+    "Food & Waste",
+    "Consumption & Sustainable Lifestyle"
+  ],
+  "methods": [
+    "Numerical Comparison",
+    "Text Comparison",
+    "Reference / Benchmark",
+    "Grading & Classification",
+    "Chart / Table",
+    "Icon / Symbolic",
+    "Gamified Feedback"
+  ],
+  "scenarioHierarchy": [
+    {
+      "name": "Computing & ICT",
+      "children": [
+        "Personal Electronic Devices",
+        "Smart Home Devices",
+        "Digital Service Usage",
+        "Artificial Intelligence Tools"
+      ]
+    },
+    {
+      "name": "Transportation",
+      "children": [
+        "Commuting / Short-distance Travel",
+        "Responsible Travel",
+        "Logistics and Delivery",
+        "Vehicle Usage"
+      ]
+    },
+    {
+      "name": "Home & Building",
+      "children": [
+        "Household Energy Systems",
+        "Water Resources & Wastewater Management",
+        "Home Greening / Gardening"
+      ]
+    },
+    {
+      "name": "Food & Waste",
+      "children": [
+        "Food Purchasing",
+        "Waste Recovery & Management"
+      ]
+    },
+    {
+      "name": "Consumption & Sustainable Lifestyle",
+      "children": [
+        "Purchase Decisions",
+        "Intangible Consumption & Services",
+        "Second-hand Transactions & Sharing Economy",
+        "Green Social Feedback & Interaction",
+        "Sustainable Habit Formation",
+        "Green & Carbon Neutrality Actions",
+        "Green Education"
+      ]
+    }
+  ],
+  "methodHierarchy": [
+    {
+      "name": "Numerical Comparison",
+      "children": [
+        "Numerical vs Numerical",
+        "Absolute Delta",
+        "Percentage Delta",
+        "Count / Frequency",
+        "Analogy / Equivalent Value"
+      ]
+    },
+    {
+      "name": "Text Comparison",
+      "children": [
+        "Recommended Text"
+      ]
+    },
+    {
+      "name": "Reference / Benchmark",
+      "children": [
+        "No Action",
+        "Typical / Average",
+        "Personal History",
+        "Trend Forecast",
+        "Goal / Budget",
+        "Peer / Ranking"
+      ]
+    },
+    {
+      "name": "Grading & Classification",
+      "children": [
+        "Scales / Grading",
+        "Range Class"
+      ]
+    },
+    {
+      "name": "Chart / Table",
+      "children": [
+        "Bar Chart",
+        "Stacked Bar Chart",
+        "Pie Chart",
+        "Line Chart",
+        "Bubble Chart",
+        "Donut Chart",
+        "Heatmap",
+        "Color Ramp Bar",
+        "Progress Bar",
+        "Transformed % Bar",
+        "Composite Graphics",
+        "Table + Number"
+      ]
+    },
+    {
+      "name": "Icon / Symbolic",
+      "children": [
+        "Increase / Decrease Icons",
+        "Saved / Reduced Indicators",
+        "Sustainability Emphasis Icons",
+        "Certification Icon"
+      ]
+    },
+    {
+      "name": "Gamified Feedback",
+      "children": [
+        "Score",
+        "Achievements / Medals",
+        "Progress Bars",
+        "Virtual Growth & Rewards"
+      ]
+    }
+  ],
+  "scenarioSubcategories": [
+    {
+      "name": "Personal Electronic Devices",
+      "parent": "Computing & ICT"
+    },
+    {
+      "name": "Smart Home Devices",
+      "parent": "Computing & ICT"
+    },
+    {
+      "name": "Digital Service Usage",
+      "parent": "Computing & ICT"
+    },
+    {
+      "name": "Artificial Intelligence Tools",
+      "parent": "Computing & ICT"
+    },
+    {
+      "name": "Commuting / Short-distance Travel",
+      "parent": "Transportation"
+    },
+    {
+      "name": "Responsible Travel",
+      "parent": "Transportation"
+    },
+    {
+      "name": "Logistics and Delivery",
+      "parent": "Transportation"
+    },
+    {
+      "name": "Vehicle Usage",
+      "parent": "Transportation"
+    },
+    {
+      "name": "Household Energy Systems",
+      "parent": "Home & Building"
+    },
+    {
+      "name": "Water Resources & Wastewater Management",
+      "parent": "Home & Building"
+    },
+    {
+      "name": "Home Greening / Gardening",
+      "parent": "Home & Building"
+    },
+    {
+      "name": "Food Purchasing",
+      "parent": "Food & Waste"
+    },
+    {
+      "name": "Waste Recovery & Management",
+      "parent": "Food & Waste"
+    },
+    {
+      "name": "Purchase Decisions",
+      "parent": "Consumption & Sustainable Lifestyle"
+    },
+    {
+      "name": "Intangible Consumption & Services",
+      "parent": "Consumption & Sustainable Lifestyle"
+    },
+    {
+      "name": "Second-hand Transactions & Sharing Economy",
+      "parent": "Consumption & Sustainable Lifestyle"
+    },
+    {
+      "name": "Green Social Feedback & Interaction",
+      "parent": "Consumption & Sustainable Lifestyle"
+    },
+    {
+      "name": "Sustainable Habit Formation",
+      "parent": "Consumption & Sustainable Lifestyle"
+    },
+    {
+      "name": "Green & Carbon Neutrality Actions",
+      "parent": "Consumption & Sustainable Lifestyle"
+    },
+    {
+      "name": "Green Education",
+      "parent": "Consumption & Sustainable Lifestyle"
+    }
+  ],
+  "methodSubcategories": [
+    {
+      "name": "Numerical vs Numerical",
+      "parent": "Numerical Comparison"
+    },
+    {
+      "name": "Absolute Delta",
+      "parent": "Numerical Comparison"
+    },
+    {
+      "name": "Percentage Delta",
+      "parent": "Numerical Comparison"
+    },
+    {
+      "name": "Count / Frequency",
+      "parent": "Numerical Comparison"
+    },
+    {
+      "name": "Analogy / Equivalent Value",
+      "parent": "Numerical Comparison"
+    },
+    {
+      "name": "Recommended Text",
+      "parent": "Text Comparison"
+    },
+    {
+      "name": "No Action",
+      "parent": "Reference / Benchmark"
+    },
+    {
+      "name": "Typical / Average",
+      "parent": "Reference / Benchmark"
+    },
+    {
+      "name": "Personal History",
+      "parent": "Reference / Benchmark"
+    },
+    {
+      "name": "Trend Forecast",
+      "parent": "Reference / Benchmark"
+    },
+    {
+      "name": "Goal / Budget",
+      "parent": "Reference / Benchmark"
+    },
+    {
+      "name": "Peer / Ranking",
+      "parent": "Reference / Benchmark"
+    },
+    {
+      "name": "Scales / Grading",
+      "parent": "Grading & Classification"
+    },
+    {
+      "name": "Range Class",
+      "parent": "Grading & Classification"
+    },
+    {
+      "name": "Bar Chart",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Stacked Bar Chart",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Pie Chart",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Line Chart",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Bubble Chart",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Donut Chart",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Heatmap",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Color Ramp Bar",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Progress Bar",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Transformed % Bar",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Composite Graphics",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Table + Number",
+      "parent": "Chart / Table"
+    },
+    {
+      "name": "Increase / Decrease Icons",
+      "parent": "Icon / Symbolic"
+    },
+    {
+      "name": "Saved / Reduced Indicators",
+      "parent": "Icon / Symbolic"
+    },
+    {
+      "name": "Sustainability Emphasis Icons",
+      "parent": "Icon / Symbolic"
+    },
+    {
+      "name": "Certification Icon",
+      "parent": "Icon / Symbolic"
+    },
+    {
+      "name": "Score",
+      "parent": "Gamified Feedback"
+    },
+    {
+      "name": "Achievements / Medals",
+      "parent": "Gamified Feedback"
+    },
+    {
+      "name": "Progress Bars",
+      "parent": "Gamified Feedback"
+    },
+    {
+      "name": "Virtual Growth & Rewards",
+      "parent": "Gamified Feedback"
+    }
+  ],
+  "source": "Manuscript Appendix Tables 2–3"
+}
