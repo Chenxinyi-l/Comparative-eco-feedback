@@ -236,8 +236,21 @@ h1{font-size:clamp(32px,3vw,43px);letter-spacing:-.035em}h2{font-size:27px}h3{fo
 .context-summary p{font-size:11.5px;line-height:1.5;margin:0;overflow-wrap:anywhere}
 .context-summary strong{font-weight:600}
 @media(max-width:700px){.reading-columns{grid-template-columns:1fr;gap:12px}}
-</style><style>.case-library-note{margin:-9px 0 17px;color:var(--muted);font-size:12px;line-height:1.5}</style>
-</head>
+</style><style>.case-source{line-height:1.5}
+.case-source small{font-size:11px;line-height:1.5;color:var(--muted)}
+.filter-panel .filter-options{display:flex;flex-flow:row wrap;gap:5px}
+.filter-options .chip{font-size:11px;line-height:1.27;padding:5px 6px;cursor:pointer}
+.citation-toggle{border:0;background:transparent;color:#2e5a87;text-decoration:underline;padding:0 2px;font:inherit;cursor:pointer}
+#ref-1{margin:8px 0 14px;padding:10px 14px;border-left:2px solid #b5c6d2;background:#f6f8fa;color:#455767;font-size:12px;line-height:1.55;overflow-wrap:anywhere}</style>
+<style>
+.matrix-foot{align-items:stretch}
+#see-cases{display:block;margin:14px 0 0 auto;min-height:42px;padding:9px 18px;font-size:15px;font-weight:600}
+</style><style>
+#patterns .sec-head p{max-width:none;text-wrap:pretty}
+.keep-together{white-space:nowrap}
+.case-card .case-visual{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);grid-template-rows:minmax(0,1fr);gap:5px;width:100%;box-sizing:border-box;justify-items:center}
+.case-card .case-visual img{width:100%;height:100%;min-height:0;min-width:0;object-fit:contain}
+</style></head>
 <body>
 <header class="sitehead">
   <div class="shell header-inner">
@@ -251,7 +264,8 @@ h1{font-size:clamp(32px,3vw,43px);letter-spacing:-.035em}h2{font-size:27px}h3{fo
   <section id="introduction" class="intro">
     
     <h1>Towards a Design Space for Comparative Eco-Feedback</h1>
-    <p class="lead"> Eco-feedback technology provides feedback on individual or group behaviors with a goal of reducing environmental impact. <sup><a href="#ref-1">[1]</a></p>
+    <p class="lead"> Eco-feedback technology provides feedback on individual or group behaviors with a goal of reducing environmental impact. <sup><button type="button" class="citation-toggle" id="ref-toggle" aria-controls="ref-1" aria-expanded="false" aria-label="Reference 1">[1]</button></sup></p>
+    <p id="ref-1" hidden>[1] Jon Froehlich, Leah Findlater, and James Landay. 2010. The design of eco-feedback technology. In <em>Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI ’10)</em>. ACM, New York, NY, USA, 1999–2008. <a href="https://doi.org/10.1145/1753326.1753629" target="_blank" rel="noopener noreferrer">https://doi.org/10.1145/1753326.1753629</a></p>
       <p><strong>Comparative eco-feedback</strong> highlights environmental impacts by comparing everyday behaviors with alternatives, reference points, or others’ behaviors.   These comparisons help people understand their actions in relation to different values, standards, and collective goals, placing individual behavior in a broader social and collective context.</p>
     <div class="intro-grid">
       <div class="intro-copy">
@@ -262,7 +276,6 @@ h1{font-size:clamp(32px,3vw,43px);letter-spacing:-.035em}h2{font-size:27px}h3{fo
 
   <section class="section" id="cases">
     <div class="sec-head"><h2>Case Library</h2></div>
-    <p class="case-library-note">Each case includes one or two illustrative screenshots; one is shown here. For full details, consult the linked tool website or publication.</p>
     <div class="case-layout">
       <aside class="filter-panel" id="filter-panel" aria-label="Case filters">
         <div class="filter-header"><h3>Filters</h3><button type="button" id="clear-filters" class="text-btn">Clear all</button></div>
@@ -284,7 +297,7 @@ h1{font-size:clamp(32px,3vw,43px);letter-spacing:-.035em}h2{font-size:27px}h3{fo
   </section>
 
   <section class="section" id="patterns">
-    <div class="sec-head"><h2>Design Patterns</h2><p>Explore the patterns between comparison methods and scenarios through an interactive heatmap.</p></div>
+    <div class="sec-head"><h2>Design Patterns</h2><p>Explore the patterns between comparison methods and scenarios through an <span class="keep-together">interactive heatmap.</span></p></div>
     <div class="matrix-config">
       <div class="matrix-selects">
         <label class="matrix-control" for="scenario-level">Scenario level
@@ -363,6 +376,11 @@ h1{font-size:clamp(32px,3vw,43px);letter-spacing:-.035em}h2{font-size:27px}h3{fo
 <script>
 let DATA;
 const $ = id => document.getElementById(id);
+$('ref-toggle').addEventListener('click',()=>{
+  const citation=$('ref-1');
+  citation.hidden=!citation.hidden;
+  $('ref-toggle').setAttribute('aria-expanded',String(!citation.hidden));
+});
 const esc = x => String(x??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#39;');
 let selectedCase=null;let caseVisibleLimit=18;const caseFilterState={scenario:new Set(),method:new Set(),source:new Set()};let matrixMode='count';let selectedCell=[0,0];let scenarioLevel='parent';let methodLevel='parent';let detailScenario='',detailMethod='';
 const factors=new Set();
@@ -372,7 +390,7 @@ function populateSelects(){
 function renderFilterOptions(){
   const specs=[['scenario','filter-scenarios',DATA.scenarios],['method','filter-methods',DATA.methods],['source','filter-sources',['Industry','Academia']]];
   for(const [kind,id,labels] of specs){
-    $(id).innerHTML=labels.map(label=>`<label class="filter-option"><input type="checkbox" data-filter-group="${kind}" value="${esc(label)}" ${caseFilterState[kind].has(label)?'checked':''}><span>${esc(label)}</span></label>`).join('');
+    $(id).innerHTML=labels.map(label=>`<button type="button" class="chip" data-filter-group="${kind}" value="${esc(label)}" aria-pressed="${caseFilterState[kind].has(label)}">${esc(label)}</button>`).join('');
   }
 }
 function visibleCases(){
@@ -391,9 +409,16 @@ function visibleCases(){
       && (T.size===0||T.has(c.type));
   });
 }
+function screenshotPaths(c){
+  const keys=c.images?.length?c.images:[c.image];
+  return keys.map(key=>DATA.images[key]).filter(Boolean);
+}
 function cardHTML(c){
+  const thumbnails=screenshotPaths(c).map((src,i)=>
+    `<img loading="lazy" src="${esc(src)}" alt="Screenshot ${i+1}: ${esc(c.title)}">`
+  ).join('');
   const scene=(c.scenarios||[c.scenario]).join(' · ');
-  return `<button type="button" class="case-card ${selectedCase===c.id?'selected':''}" data-id="${esc(c.id)}" aria-pressed="${selectedCase===c.id}" title="${esc(c.title)}"><span class="case-visual"><img loading="lazy" src="${esc(DATA.images[c.image]||'')}" alt="Case screenshot: ${esc(c.title)}" /></span><span class="case-body"><span class="case-title">${esc(c.title)}</span><span class="case-tag">${esc(scene)}</span></span></button>`;
+  return `<button type="button" class="case-card ${selectedCase===c.id?'selected':''}" data-id="${esc(c.id)}" aria-pressed="${selectedCase===c.id}" title="${esc(c.title)}"><span class="case-visual">${thumbnails}</span><span class="case-body"><span class="case-title">${esc(c.title)}</span><span class="case-tag">${esc(scene)}</span></span></button>`;
 }
 function renderCases(){
   const cases=visibleCases();
@@ -411,10 +436,7 @@ function renderCaseDetail(){
   const c=DATA.cases.find(x=>x.id===selectedCase);
   if(!c){$('case-detail').hidden=true;$('case-detail').innerHTML='';return;}
   $('case-detail').hidden=false;
-  const keys=(c.images&&c.images.length?c.images:[c.image]).slice(0,1);
-  const pictureHTML=keys.map((key,i)=>{
-    const src=DATA.images[key]||'';
-    if(!src)return '';
+  const pictureHTML=screenshotPaths(c).map((src,i)=>{
     return `<a href="${esc(src)}" target="_blank" rel="noopener noreferrer" aria-label="Open original screenshot ${i+1} for ${esc(c.title)}"><img loading="lazy" src="${esc(src)}" alt="Screenshot ${i+1}: ${esc(c.title)}"></a>`;
   }).join('');
   const rawSub=(c.subscenarios||[]).map(x=>`<span>${esc(x)}</span>`).join('');
@@ -426,7 +448,7 @@ function renderCaseDetail(){
       <div class="detail-label">Detailed Scenario</div><div class="observed-list">${rawSub}</div>
       <div class="detail-label">Comparison Method</div><div class="observed-list">${c.methods.map(x=>`<span>${esc(x)}</span>`).join('')}</div>
       <div class="detail-label">Detailed Comparison Method</div><div class="observed-list">${rawMethods}</div>
-      ${c.source_url?`<p><a href="${esc(c.source_url)}" target="_blank" rel="noopener noreferrer" title="${esc(c.source_citation||c.title)}">${c.type==='Industry'?'Visit tool website':'View publication'}</a></p>`:''}
+      ${c.source_url?`<p class="case-source"><small>Example screenshots are shown. See the linked website or publication for details.</small> <a href="${esc(c.source_url)}" target="_blank" rel="noopener noreferrer" title="${esc(c.source_citation||c.title)}">${c.type==='Industry'?'Visit tool website':'View publication'}</a></p>`:''}
     </div></div>`;
 }
 function setFilters(s,m,scenarioDetail='',methodDetail=''){
@@ -498,7 +520,7 @@ function renderMatrixDetail(ctx=matrixContext()){
   const [i,j]=selectedCell;
   if(!mat[i]||mat[i][j]===undefined){$('matrix-selected').innerHTML='Select a matrix cell.';return;}
   const r=rows[i],c=cols[j],n=mat[i][j],pctRow=rowTotals[i]?100*n/rowTotals[i]:0,pctCol=colTotals[j]?100*n/colTotals[j]:0;
-  $('matrix-selected').innerHTML=`<b>${esc(r.name)} × ${esc(c.name)}</b><div class="matrix-details"><div class="matrix-stat"><strong>${n}</strong><span>Counts</span></div><div class="matrix-stat"><strong>${pctRow.toFixed(1)}%</strong><span>Within scenario</span></div><div class="matrix-stat"><strong>${pctCol.toFixed(1)}%</strong><span>Within method</span></div></div><button class="mini-link" type="button" id="see-cases">浏览对应案例</button>`;
+  $('matrix-selected').innerHTML=`<b>${esc(r.name)} × ${esc(c.name)}</b><div class="matrix-details"><div class="matrix-stat"><strong>${n}</strong><span>Counts</span></div><div class="matrix-stat"><strong>${pctRow.toFixed(1)}%</strong><span>Within scenario</span></div><div class="matrix-stat"><strong>${pctCol.toFixed(1)}%</strong><span>Within method</span></div></div><button class="small-btn primary" type="button" id="see-cases">Browse related cases</button>`;
 }
 function browseIntersection(){
   const {rows,cols}=matrixContext();
@@ -544,14 +566,17 @@ function init(){populateSelects();fillMatrixSelectors();if(DATA.images.designspa
   $('open-figure').addEventListener('click',()=> $('figure-modal').showModal());$('close-figure').addEventListener('click',()=> $('figure-modal').close());$('figure-modal').addEventListener('click',e=>{if(e.target===$('figure-modal'))$('figure-modal').close();});renderCases();renderMatrix();renderSpaces();showGroupDetail(DATA.spaces[0].groups[0]);renderDrafts();$('case-grid').addEventListener('click',e=>{const b=e.target.closest('[data-id]');if(!b)return;selectedCase=b.dataset.id;renderCases();$('case-detail').scrollIntoView({behavior:'smooth',block:'center'});});
   $('case-search').addEventListener('input',()=>{caseVisibleLimit=18;renderCases();});
   $('case-more').addEventListener('click',()=>{caseVisibleLimit+=18;renderCases();});
-  $('filter-panel').addEventListener('change',e=>{
-    const input=e.target.closest('input[type="checkbox"][data-filter-group]');if(!input)return;
-    if(input.dataset.filterGroup==='scenario')detailScenario='';
-    if(input.dataset.filterGroup==='method')detailMethod='';
-    const group=caseFilterState[input.dataset.filterGroup];if(input.checked)group.add(input.value);else group.delete(input.value);
+  $('filter-panel').addEventListener('click',e=>{
+    const button=e.target.closest('button[data-filter-group]');
+    if(!button)return;
+    const kind=button.dataset.filterGroup,group=caseFilterState[kind];
+    if(kind==='scenario')detailScenario='';
+    if(kind==='method')detailMethod='';
+    if(group.has(button.value))group.delete(button.value);else group.add(button.value);
+    button.setAttribute('aria-pressed',String(group.has(button.value)));
     caseVisibleLimit=18;renderCases();
   });
-  $('clear-filters').addEventListener('click',()=>setFilters('',''));$('matrix-modes').addEventListener('click',e=>{const b=e.target.closest('[data-mode]');if(!b)return;matrixMode=b.dataset.mode;renderMatrix();});for(const id of ['scenario-level','method-level'])$(id).addEventListener('change',()=>{scenarioLevel=$('scenario-level').value;methodLevel=$('method-level').value;selectedCell=[0,0];renderMatrix();});for(const id of ['matrix-scenario-group','matrix-method-group'])$(id).addEventListener('change',()=>{selectedCell=null;renderMatrix();});$('heat-table').addEventListener('click',e=>{const b=e.target.closest('[data-row]');if(!b)return;selectedCell=[Number(b.dataset.row),Number(b.dataset.col)];renderMatrix();browseIntersection();});
+  $('clear-filters').addEventListener('click',()=>setFilters('',''));$('matrix-modes').addEventListener('click',e=>{const b=e.target.closest('[data-mode]');if(!b)return;matrixMode=b.dataset.mode;renderMatrix();});for(const id of ['scenario-level','method-level'])$(id).addEventListener('change',()=>{scenarioLevel=$('scenario-level').value;methodLevel=$('method-level').value;selectedCell=[0,0];renderMatrix();});for(const id of ['matrix-scenario-group','matrix-method-group'])$(id).addEventListener('change',()=>{selectedCell=null;renderMatrix();});$('heat-table').addEventListener('click',e=>{const b=e.target.closest('[data-row]');if(!b)return;selectedCell=[Number(b.dataset.row),Number(b.dataset.col)];renderMatrix();});
   $('matrix-selected').addEventListener('click',e=>{if(e.target.id==='see-cases')browseIntersection();});
   $('space-dimensions').addEventListener('click',e=>{
     const button=e.target.closest('[data-attr], [data-group]');
